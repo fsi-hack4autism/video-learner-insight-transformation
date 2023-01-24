@@ -1,4 +1,4 @@
-# patient-video-portfolio-insights
+# video learner insights
 
 Module 1 (Sign In + Upload Video + View all sessions in one place)
 	- Log In 

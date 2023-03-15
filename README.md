@@ -14,3 +14,8 @@ Module 3 (Add AI!)
 	- Speech to Text (create a transcription)
 	- Sentiment Analysis 
 With the help of the SMEs, be able to extract insights from the patient's video repo - eye signals, key words being spoken 
+
+
+Projects 
+1. LOGIN: Create a login component that allows a user (parent, therapist, etc...) to login into the application. This can be through social media, or through AAD. Encorporate security best practices. Store all user data into a database. 
+2. 

@@ -26,3 +26,9 @@ Projects
 
 4. INSIGHTS: Allow users to view a transcript from the session video using Speech to Text. In addition, extract insights of key words and sentiment on the video using Language services from Cognitive Services. 
 
+## Technology
+
+ - Azure AD B2C
+ - Speech to Text
+ - Azure SQL
+ - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/)

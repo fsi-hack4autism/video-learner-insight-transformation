@@ -1,22 +1,5 @@
 # Video Learner Insights (Use Case 2)
 
-## Goals
-1. Sign In + Upload Video + View all sessions in one place
-	- Log In 
-	- Take the video that has been recorded 
-	- Push the video to a repository 
-
-2. Interaction with BCBA and Parents
-	- Chat Functionality 
-	- Express Reactions at certain parts of time frame in video
-	- Be able to see this interaction when you open the video
-
-3. Add AI
-	- Speech to Text (create a transcription)
-	- Sentiment Analysis 
-	- Extract insights from the patient's video repo - eye signals, key words being spoken 
-
-
 ## Team Split 
 
 1. LOGIN: Create a login component that allows a user (parent, therapist, etc...) to login into the application. This can be through social media, or through AAD. Incorporate security best practices. Store all user data into a database. 

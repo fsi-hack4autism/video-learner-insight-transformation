@@ -6,9 +6,9 @@
 
 2. UPLOAD: Be able to upload a video file into an application. Store multiple videos along with their metadata into a database. View all the videos on the front end by session date. Optional: organize by month, year.
 
-3. INTERACTION: Add functionality to comment at different timestamps of a given video. (Ex: 0:23 - Penny smiled when the toy was introduced.) Allow users to comment in real time using ACS. Store all of this data in a database.
+3. INTERACTION: Add functionality to comment at different timestamps of a given video. (Ex: 0:23 - Penny smiled when the toy was introduced.) Allow users to comment in real time using ACS. For each video, have a place to write down the session goals. Store all of this data in a database.
 
-4. INSIGHTS: Allow users to view a transcript from the session video using Speech to Text. In addition, extract insights of key words and sentiment on the video using Language services from Cognitive Services. 
+4. INSIGHTS: Allow users to view a transcript from the session video using Speech to Text. Extract insights of key words and sentiment on the video using Language services from Cognitive Services. In addition, create a summary of each session.
 
 5. DOCUMENT: Create an architecture diagram of the Azure technologies we will use and document how each step connects with one another in our Github page.
 

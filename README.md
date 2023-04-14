@@ -20,3 +20,7 @@
  - Sharepoint on Stream
  - Azure SQL
  - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/)
+
+## Pre-reqs
+1. [VS Code](https://github.com/devanshithakar12/WhatTheHack/blob/xxx-SpeechToText/000-HowToHack/WTH-Common-Prerequisites.md#visual-studio-code)
+

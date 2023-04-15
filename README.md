@@ -24,3 +24,17 @@
 ## Pre-reqs
 1. [VS Code](https://github.com/devanshithakar12/WhatTheHack/blob/xxx-SpeechToText/000-HowToHack/WTH-Common-Prerequisites.md#visual-studio-code)
 
+## Resources
+* INTERACTION 
+1. [Overview of Stream on Sharepoint](https://learn.microsoft.com/en-us/stream/streamnew/new-stream)
+2. [Video Portal with Stream on Sharepoint](https://learn.microsoft.com/en-us/stream/streamnew/portals-guide-video-portal#general-setup)
+3. [Video Portal with JSON formatted library](https://medium.com/@anand.vadivelan/creating-a-video-portal-in-sharepoint-with-json-formatted-document-library-e886209159ff)
+
+* INSIGHTS
+1. [Video Indexer API](https://api-portal.videoindexer.ai/)
+2. [Video Indexer Output](https://learn.microsoft.com/en-us/azure/azure-video-indexer/video-indexer-output-json-v2)
+3. [Azure Speech SDK](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/quickstarts/setup-platform?tabs=windows%2Cubuntu%2Cdotnet%2Cjre%2Cmaven%2Cnodejs%2Cmac%2Cpypi&pivots=programming-language-python)
+4. [Speech To Text from a file](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-recognize-speech?pivots=programming-language-python)
+5. [Key word extraction](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/key-phrase-extraction/overview)
+6. [Sentiment Analysis](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview)
+7. [Summarization](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/summarization/how-to/document-summarization)

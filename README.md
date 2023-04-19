@@ -15,7 +15,6 @@
 ## Technology
 
  - Azure AD B2C
- - Speech to Text
  - Azure Cogntiive Services
  - Sharepoint on Stream
  - Azure SQL
@@ -27,10 +26,11 @@
 ## Resources
 * LOGIN
 1. [Sign in using AAD B2C](https://learn.microsoft.com/en-us/azure/active-directory-b2c/quickstart-single-page-app)
+
 * INTERACTION 
-1. [Overview of Stream on Sharepoint](https://learn.microsoft.com/en-us/stream/streamnew/new-stream)
-2. [Video Portal with Stream on Sharepoint](https://learn.microsoft.com/en-us/stream/streamnew/portals-guide-video-portal#general-setup)
-3. [Video Portal with JSON formatted library](https://medium.com/@anand.vadivelan/creating-a-video-portal-in-sharepoint-with-json-formatted-document-library-e886209159ff)
+3. [Overview of Stream on Sharepoint](https://learn.microsoft.com/en-us/stream/streamnew/new-stream)
+4. [Video Portal with Stream on Sharepoint](https://learn.microsoft.com/en-us/stream/streamnew/portals-guide-video-portal#general-setup)
+5. [Video Portal with JSON formatted library](https://medium.com/@anand.vadivelan/creating-a-video-portal-in-sharepoint-with-json-formatted-document-library-e886209159ff)
 
 * INSIGHTS
 1. [Video Indexer API](https://api-portal.videoindexer.ai/)

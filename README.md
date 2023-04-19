@@ -25,6 +25,8 @@
 1. [VS Code](https://github.com/devanshithakar12/WhatTheHack/blob/xxx-SpeechToText/000-HowToHack/WTH-Common-Prerequisites.md#visual-studio-code)
 
 ## Resources
+* LOGIN
+1. [Sign in using AAD B2C](https://learn.microsoft.com/en-us/azure/active-directory-b2c/quickstart-single-page-app)
 * INTERACTION 
 1. [Overview of Stream on Sharepoint](https://learn.microsoft.com/en-us/stream/streamnew/new-stream)
 2. [Video Portal with Stream on Sharepoint](https://learn.microsoft.com/en-us/stream/streamnew/portals-guide-video-portal#general-setup)

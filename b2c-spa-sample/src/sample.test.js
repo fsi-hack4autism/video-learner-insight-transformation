@@ -54,7 +54,7 @@ describe('Ensure that the app starts', () => {
         await waitFor(() => expect(handleRedirectSpy).toHaveBeenCalledTimes(1));
 
         expect(
-            await screen.findByText('Welcome to the Microsoft Authentication Library For React Tutorial')
+            await screen.findByText('FSI Autism Hackathon 2023 | Use Case 2')
         ).toBeInTheDocument();
     })
 });

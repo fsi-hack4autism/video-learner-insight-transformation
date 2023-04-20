@@ -44,7 +44,7 @@ export const NavigationBar = () => {
         <>
             <Navbar bg="primary" variant="dark" className="navbarStyle">
                 <a className="navbar-brand" href="/">
-                    Microsoft identity platform
+                    FSI Autism Hackathon 2023 | Use Case 2
                 </a>
                 <AuthenticatedTemplate>
                     <Nav.Link className="navbarButton" href="/">

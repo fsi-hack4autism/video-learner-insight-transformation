@@ -71,14 +71,16 @@ export const NavigationBar = () => {
                 </AuthenticatedTemplate>
                 <UnauthenticatedTemplate>
                     <div className="collapse navbar-collapse justify-content-end">
-                        <DropdownButton variant="secondary" className="ml-auto" drop="start" title="Sign In">
+                        <button onClick={handleLoginRedirect} className="btn btn-secondary" title="Sign In">Sign in</button>
+
+                        {/* FSI Autism Hackathon 2023 | Use Case 2 - AAD B2C"ml-auto" drop="start" title="Sign In">
                             <Dropdown.Item as="button" onClick={handleLoginPopup}>
                                 Sign in using Popup
                             </Dropdown.Item>
                             <Dropdown.Item as="button" onClick={handleLoginRedirect}>
                                 Sign in using Redirect
                             </Dropdown.Item>
-                        </DropdownButton>
+                        </DropdownButton> */}
                     </div>
                 </UnauthenticatedTemplate>
             </Navbar>

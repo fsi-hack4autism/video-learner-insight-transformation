@@ -11,6 +11,8 @@ from azure.ai.textanalytics import (
 endpoint = "https://democogserv1.cognitiveservices.azure.com/"
 key = "1b8bf0f4084d480bb0d86903ee6501f9"
 
+mock_learner_name = "Drew"
+
 conversation_mock_data = [{'speaker1':"Excited. He was excited.",
                            'speaker2':"OK, listen to this little story. It was Barry's birthday and he was on his way home. He had a long day at work. When he opened the door, his friends and family screamed happy birthday and then they threw confetti at him. I'll read it again. OK? Listen, It was Garry's birthday and he was on his way home. He had a long day at work. When he opened the door, his friends and family screamed happy birthday and then they threw confetti at him. How do you think Barry was feeling?"},
                           {'speaker1':"",
@@ -122,23 +124,30 @@ def main():
         learner_data = sentiment_analysis(client, conversation_mock_data[i]["speaker1"])
         user_data = sentiment_analysis(client, conversation_mock_data[i]["speaker2"])
         sentiment_score = sentiment_comparison(learner_data, user_data)
-        print("Sentiment Score: ", sentiment_score)
+        print("Sentiment Similarity Score: ", sentiment_score)
 
         # keeping track of sentiment across interactions
         user_sentiment_history.append(user_data['overall_sentiment'])
 
         # TODO: identify sentences with learner name and calculate sentiment of that sentence
+        user_sentences = conversation_mock_data[i]["speaker2"].split('.')
+        important_sentences = [sent for sent in user_sentences if sent.find(mock_learner_name)!=-1]
+        user_specific_sentiment = sentiment_analysis(client, '. '.join(important_sentences))
+        print("Important sentences identified: ", important_sentences)
+        print("Sentiment of important sentences: ", user_specific_sentiment['overall_sentiment'])
 
         # calculate how well learner is responding --> content of reponse analysis
         print("---------Calculating how well learner is responding in this interaction----------")
         learner_data = key_phrase_extraction(client, conversation_mock_data[i]["speaker1"])
         user_data = key_phrase_extraction(client, conversation_mock_data[i]["speaker2"])
         phrase_score = key_phrase_comparison(learner_data, user_data)
-        print("Key Phrases Used Score: ", phrase_score)
+        print("Key Phrases Used Similarity Score: ", phrase_score)
+
+        print("\n\n")
 
 
     #TODO: calculate therapist/parent perception of how learner is performing --> track number of positive and negative reviews spoken by therapist/parent
-    print("--------Calculating Therapist/Parent User Perception of how learner is performing----------")
+    print("--------Overall Calculating Therapist/Parent User Perception of how learner is performing----------")
     num_pos_reviews = user_sentiment_history.count('positive')
     num_neg_reviews = user_sentiment_history.count('negative')
     print("number of positive reviews: ", num_pos_reviews)

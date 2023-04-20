@@ -1,0 +1,11 @@
+
+.dash-navbar {
+    background-color: var(--blue) !important;
+    font-weight: 700;
+    color: white !important;
+    padding-left: 15px !important;
+ }
+
+ .account-nav {
+   float: right;
+}

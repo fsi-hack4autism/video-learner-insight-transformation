@@ -7,7 +7,7 @@ export const PageLayout = (props) => {
             <NavigationBar />
             <br />
             <h5>
-                <center>FSI Autism Hackathon 2023 | Use Case 2</center>
+                <center>FSI Autism Hackathon 2023 | Use Case 2 - AAD B2C</center>
             </h5>
             <br />
             {props.children}

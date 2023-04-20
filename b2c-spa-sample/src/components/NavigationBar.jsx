@@ -44,7 +44,7 @@ export const NavigationBar = () => {
         <>
             <Navbar bg="primary" variant="dark" className="navbarStyle">
                 <a className="navbar-brand" href="/">
-                    FSI Autism Hackathon 2023 | Use Case 2
+                    FSI Autism Hackathon 2023 | Use Case 2 - AAD B2C
                 </a>
                 <AuthenticatedTemplate>
                     <Nav.Link className="navbarButton" href="/">

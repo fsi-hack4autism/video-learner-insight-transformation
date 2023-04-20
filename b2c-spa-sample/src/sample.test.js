@@ -54,7 +54,7 @@ describe('Ensure that the app starts', () => {
         await waitFor(() => expect(handleRedirectSpy).toHaveBeenCalledTimes(1));
 
         expect(
-            await screen.findByText('FSI Autism Hackathon 2023 | Use Case 2')
+            await screen.findByText('FSI Autism Hackathon 2023 | Use Case 2 - AAD B2C')
         ).toBeInTheDocument();
     })
 });

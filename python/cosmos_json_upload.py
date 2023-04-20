@@ -12,12 +12,17 @@ client = CosmosClient(URL, credential=KEY)
 def upload_json(database,container,json_file):
     database = client.get_database_client(database)
     container = database.get_container_client(container)
+    if type(json_file) == str:
+        json_file = json.load(open(json_file))
+    else:
+        pass
     try:
         container.upsert_item(json.load(open(json_file)))
     except Exception as ex:
         print(traceback.format_exc())
         print('Problem upload json file!')
         sys.exit(-1)
+    
 
 def parseArgs():
     argparser = argparse.ArgumentParser()

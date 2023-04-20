@@ -35,7 +35,8 @@ namespace VideoAnalysis
             var videoDataViewModel = new VideoDataViewModel();
             var videoaggregationViewModel = new VideoAggregationViewModel(videoDataViewModel);
 
-
+            objVideoDataView.DataContext = videoDataViewModel;
+            objVideoAggregationView.DataContext = videoaggregationViewModel;
         }
     }
 }

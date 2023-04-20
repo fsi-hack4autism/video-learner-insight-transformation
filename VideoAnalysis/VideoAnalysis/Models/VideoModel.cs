@@ -34,6 +34,89 @@ namespace VideoAnalysis.Models
         public List<Instance> instances { get; set; }
     }
 
+    public class EmotionInfo : Emotion, INotifyPropertyChanged
+    {
+        private Emotion _baseInstance;
+        public EmotionInfo(Emotion baseInstance, DateTime created)
+        {
+            _baseInstance = baseInstance;
+            CreatedYear = created.Year;
+            CreatedMonth = created.Month;
+
+            foreach (var instance in _baseInstance.instances)
+            {
+                //var timeStampParts = instance.start.Split('.')[0].Split(':');
+                //var hour = int.Parse(timeStampParts[0]);
+                //var minutes = int.Parse(timeStampParts[1]);
+                //var secods = int.Parse(timeStampParts[2]);
+
+                var startTime = TimeSpan.Parse(instance.start);
+                var endTime = TimeSpan.Parse(instance.end);
+
+                var totalTime = endTime - startTime;
+                Duration += totalTime.Duration().Seconds;
+            }
+        }
+
+        private int _createdYear;
+        public int CreatedYear
+        {
+            get { return _createdYear; }
+            set
+            {
+                if (_createdYear != value)
+                {
+                    _createdYear = value;
+                    NotifyPropertyChange(nameof(CreatedYear));
+                }
+            }
+        }
+
+        private int _createdMonth;
+        public int CreatedMonth
+        {
+            get { return _createdMonth; }
+            set
+            {
+                if (_createdMonth != value)
+                {
+                    _createdMonth = value;
+                    NotifyPropertyChange(nameof(CreatedMonth));
+                }
+            }
+        }
+
+        private int _duration;
+        public int Duration
+        {
+            get { return _duration; }
+            set
+            {
+                if (_duration != value)
+                {
+                    _duration = value;
+                    NotifyPropertyChange(nameof(Duration));
+                }
+            }
+        }
+
+
+        public string Type { get { return _baseInstance.type; } }
+
+        public List<Instance> Instances { get { return _baseInstance.instances; } }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        private void NotifyPropertyChange(string propertyName)
+        {
+            var propertyChanged = PropertyChanged;
+            if (propertyChanged != null)
+            {
+                propertyChanged(this, new PropertyChangedEventArgs(propertyName));
+            }
+        }
+    }
+
     public class Face
     {
         public int id { get; set; }

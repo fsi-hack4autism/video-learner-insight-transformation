@@ -23,7 +23,6 @@ namespace VideoAnalysis.DataView
         public VideoDataView()
         {
             InitializeComponent();
-            this.DataContext = new VideoDataViewModel();
         }
     }
 }

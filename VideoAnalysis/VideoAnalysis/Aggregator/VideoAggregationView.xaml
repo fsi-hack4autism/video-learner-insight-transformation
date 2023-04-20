@@ -31,12 +31,13 @@
 
                 <TextBlock Grid.Row="0" Grid.Column="0" Text="All emotions" VerticalAlignment="Center" Margin="5"></TextBlock>
                 <DataGrid Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" Margin="5"
-                          ItemsSource="{Binding Path=VideoModels,UpdateSourceTrigger=PropertyChanged}"
-                          SelectedItem="{Binding Path=SelectedVideoModel, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
+                          ItemsSource="{Binding Path=EmotionInfos,UpdateSourceTrigger=PropertyChanged}"
+                          SelectedItem="{Binding Path=SelectedEmotionInfo, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
                     <DataGrid.Columns>
-                        <DataGridTextColumn Header="Date" Binding="{Binding Path=Created, StringFormat={}{0:dd-MMM-yyyy}, UpdateSourceTrigger=PropertyChanged}" Width="*" />
-                        <DataGridTextColumn Header="Emotion" Binding="{Binding Path=Name,UpdateSourceTrigger=PropertyChanged}" />
-                        <DataGridTextColumn Header="Duration" Binding="{Binding Path=UserName,UpdateSourceTrigger=PropertyChanged}" />
+                        <DataGridTextColumn Header="Year" Binding="{Binding Path=CreatedYear, UpdateSourceTrigger=PropertyChanged}" />
+                        <DataGridTextColumn Header="Month" Binding="{Binding Path=CreatedMonth, UpdateSourceTrigger=PropertyChanged}" />
+                        <DataGridTextColumn Header="Emotion" Binding="{Binding Path=Type,UpdateSourceTrigger=PropertyChanged}" />
+                        <DataGridTextColumn Header="Duration" Binding="{Binding Path=Duration,UpdateSourceTrigger=PropertyChanged}" Width="*" />
                     </DataGrid.Columns>
                 </DataGrid>
 

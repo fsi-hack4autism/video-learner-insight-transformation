@@ -3,7 +3,7 @@
 ## Dr. Ashley
 ![image](https://user-images.githubusercontent.com/37748641/233430705-5b881626-109d-4dbb-8008-f26b984912c9.png)
 ### About: 
-- Dr. Ashley is a Board Certified Behavior Analyst who specializes in pediatric patients with Autism at Mount Sinia who specializes in working with  children with Autism
+- Dr. Ashley is a Board Certified Behavior Analyst who specializes in pediatric patients with Autism at Mount Sinia.
 
 ### Demographics:
 

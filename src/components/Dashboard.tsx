@@ -4,7 +4,9 @@ import '../styles/Dashboard.css';
 import DashboardCard from "./DashboardCard";
 import InsightsNavbar from "./InsightsNavbar";
 import picture from '../assets/images/insights.png';
-import graph from '../assets/images/legotherapy.png';
+// import graph from '../assets/images/legotherapy.png';
+
+import graph from '../assets/images/graph.png';
 import video1 from '../assets/videos/video1.mp4';
 import video2 from '../assets/videos/video2.mp4';
 import video3 from '../assets/videos/video3.mp4';
@@ -101,13 +103,10 @@ const Dashboard = (props:any) => {
   
 
   // userInteractionData is a list of users that have access to the current learner's videos , can show and hide based on role and interaction score could be calculated based on the number of interactions or acitivty like comment, video upload etc 
-  const userInteractionData = [{'name': 'David', 'Role': 'Parent', 'interactions': 2},
+  const userInteractionData = [
+  {'name': 'David', 'Role': 'Parent', 'interactions': 2},
   {'name': 'Eve', 'Role': 'Therapist', 'interactions': 6},
   {'name': 'Alice', 'Role': 'CareGiver', 'interactions': 9},
-  {'name': 'Charlie', 'Role': 'Therapist', 'interactions': 3},
-  {'name': 'Eve', 'Role': 'Therapist', 'interactions': 7},
-  {'name': 'Alice', 'Role': 'CareGiver', 'interactions': 10},
-  {'name': 'Bob', 'Role': 'Therapist', 'interactions': 5},
   {'name': 'Bob', 'Role': 'Parent', 'interactions': 3},
   {'name': 'Charlie', 'Role': 'CareGiver', 'interactions': 10},
   {'name': 'David', 'Role': 'Therapist', 'interactions': 7}]
@@ -143,7 +142,7 @@ const Dashboard = (props:any) => {
   const learningGraph = graph;
 
   // Mock data for progress score, this will be replaced with actual data after aggregation
-  const progressScore = 87;
+  const progressScore = "+8%";
 
   const handleVideoClick = (e: any) => {
     // this value is title
@@ -164,12 +163,16 @@ const Dashboard = (props:any) => {
           <Row className="top-row">
             <Col sm='6' >
               <DashboardCard title="Learning over time" image={learningGraph} />
+              <span> <i> Learning change over month or weekly  </i></span>
+
             </Col>
             <Col sm='3'>
-              <DashboardCard title="Progress Score per week" value={progressScore.toString()} />
+              <DashboardCard title="Progress change per week" value={progressScore.toString()} />
+              <span> <i> Score we can calulate on weekly change learning </i></span>
             </Col>
             <Col sm='3'>
               <DashboardCard title="Access Users" list={userInteractionData} />
+              <span> <i>Interaction assume video uploads/comments </i></span>
             </Col>
           </Row>
           <br></br>

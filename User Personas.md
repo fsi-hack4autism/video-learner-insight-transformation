@@ -34,7 +34,7 @@
 
 # Persona 2
 
-# Derrick
+## Derrick
 ![image](https://user-images.githubusercontent.com/37748641/233432102-426e0bd5-5e42-4796-8819-f97f5686bb35.png)
 
 ### About: 

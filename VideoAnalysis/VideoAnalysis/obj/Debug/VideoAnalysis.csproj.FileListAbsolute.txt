@@ -1,0 +1,73 @@
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis.csproj.AssemblyReference.cache
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis.csproj.SuggestedBindingRedirects.cache
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\Aggregator\VideoAggregationView.g.cs
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\DataView\VideoDataView.g.cs
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\MainWindow.g.cs
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\App.g.cs
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis_MarkupCompile.cache
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis_MarkupCompile.lref
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\VideoAnalysis.exe.config
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\VideoAnalysis.exe
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\VideoAnalysis.pdb
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Fluid.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Namotion.Reflection.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Newtonsoft.Json.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\NJsonSchema.CodeGeneration.CSharp.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\NJsonSchema.CodeGeneration.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\NJsonSchema.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Parlot.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Buffers.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Memory.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Numerics.Vectors.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Text.Encodings.Web.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Text.Json.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.ValueTuple.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\TimeZoneConverter.dll
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Fluid.pdb
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Fluid.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Namotion.Reflection.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Newtonsoft.Json.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\NJsonSchema.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\NJsonSchema.CodeGeneration.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\NJsonSchema.CodeGeneration.CSharp.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\Parlot.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Buffers.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Memory.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Numerics.Vectors.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Text.Encodings.Web.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Text.Json.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\System.ValueTuple.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\TimeZoneConverter.xml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\Aggregator\VideoAggregationView.baml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\DataView\VideoDataView.baml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\MainWindow.baml
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis.g.resources
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis.Properties.Resources.resources
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis.csproj.GenerateResource.cache
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis.csproj.CoreCompileInputs.cache
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis.csproj.CopyComplete
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis.exe
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\VideoAnalysis.pdb
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\JSON\Video Indexer-Org.json
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\JSON\Video Indexer-01.json
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\JSON\Video Indexer-02.json
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\JSON\Video Indexer-03.json
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\JSON\Video Indexer-04.json
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\JSON\Video Indexer-05.json
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\JSON\Video Indexer-06.json
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\JSON\Video Indexer-07.json
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\JSON\Video Indexer-08.json
+E:\USA\Learning\FSI Hackathon-2023\Sample App\VideoAnalysis\VideoAnalysis\bin\Debug\JSON\Video Indexer-09.json

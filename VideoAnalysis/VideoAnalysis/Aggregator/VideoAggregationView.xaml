@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="VideoAnalysis.Aggregator.VideoAggregationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:VideoAnalysis.Aggregator"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" BorderThickness="1" Margin="5">
+            <TextBlock Grid.Column="0" Text="Emotions" FontSize="15" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        </Border>
+
+        <Border Grid.Row="1" BorderThickness="1" Margin="5">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" Grid.Column="0" Text="All emotions" VerticalAlignment="Center" Margin="5"></TextBlock>
+                <DataGrid Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" Margin="5"
+                          ItemsSource="{Binding Path=VideoModels,UpdateSourceTrigger=PropertyChanged}"
+                          SelectedItem="{Binding Path=SelectedVideoModel, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Date" Binding="{Binding Path=Created, StringFormat={}{0:dd-MMM-yyyy}, UpdateSourceTrigger=PropertyChanged}" Width="*" />
+                        <DataGridTextColumn Header="Emotion" Binding="{Binding Path=Name,UpdateSourceTrigger=PropertyChanged}" />
+                        <DataGridTextColumn Header="Duration" Binding="{Binding Path=UserName,UpdateSourceTrigger=PropertyChanged}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+
+            </Grid>
+        </Border>
+
+    </Grid>
+</UserControl>

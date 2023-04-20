@@ -1,0 +1,37 @@
+footer {
+  position: fixed;
+  bottom: 5%;
+  width: 100%;
+}
+
+.App {
+  text-align: center;
+}
+
+.data-area-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly
+}
+
+.navbarButton {
+  color: #fff !important;
+  padding: .5rem 1rem !important;
+}
+
+.navbarStyle {
+  padding: .5rem 1rem !important;
+}
+
+.table-responsive {
+  max-height: 39rem !important;
+}
+
+.tableColumn {
+  word-break: break-all
+}
+
+.profileButton {
+  margin: .5rem .5rem;
+}

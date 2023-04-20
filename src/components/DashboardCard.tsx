@@ -15,20 +15,22 @@ interface BaseCardProps {
     color?: string;
     children?: React.ReactNode;
     title?: string;
+    height?: string;
 }
 
 interface GraphCardProps extends BaseCardProps {
     data: any[];
 }
 
-interface NumberCardProps extends BaseCardProps {
-    value: number;
+interface TextCardProps extends BaseCardProps {
+    value: string;
 }
 
 interface VideoCardProps extends BaseCardProps {
     video: string;
     poster?: string;
     tags: string[];
+    callback?: (e: any) => void;
 }
 
 interface WorldCloudCardProps extends BaseCardProps {
@@ -38,29 +40,39 @@ interface WorldCloudCardProps extends BaseCardProps {
 interface CommentCardProps extends BaseCardProps {
     comment: string;
     author: string;
+    height?: string;
 }
 interface ImageCardProps extends BaseCardProps {
     image: string;
 }
 
+interface dataList {
+    name: string;
+    Role: string;
+    interactions: number;
+}
+
+
+
 interface TableCardProps extends BaseCardProps {
-    list: string[];
+    list: dataList[];
 }
 
 
 type CardProps =
     | GraphCardProps
-    | NumberCardProps
+    | TextCardProps
     | VideoCardProps
     | WorldCloudCardProps
     | CommentCardProps
     | ImageCardProps
     | TableCardProps;
 
-const BaseCard = ({ color = 'blue', children }: BaseCardProps) => {
+const BaseCard = ({ color = 'blue', children, height = "inhert" }: BaseCardProps) => {
     const cardStyle = {
         backgroundColor: `var(--${color})`,
-        minHeight: '20vh'
+        minHeight: '20vh',
+        height: `${height} !important`,
     };
 
     return (
@@ -82,11 +94,20 @@ const GraphCard = ({ title, data, color = 'primary', children }: GraphCardProps)
     );
 };
 
-const NumberCard = ({ title, value, color = 'primary', children }: NumberCardProps) => {
+const TextCard = ({ title, value, color = 'primary', children }: TextCardProps) => {
+    
+    let cardStyle = {
+        fontSize: '20px'
+    };
+    if (title === "Story" || title === "Music" || title === "Cooking" || title === "Video Game"){
+        cardStyle = {
+            fontSize: '20px'
+        };
+    }
     return (
         <BaseCard color={color}>
             <Card.Title>{title}</Card.Title>
-            <Card.Text style={{fontSize: '100px'}}>{value}</Card.Text>
+            <Card.Text style={cardStyle}>{value}</Card.Text>
             {children}
         </BaseCard>
     );
@@ -94,7 +115,7 @@ const NumberCard = ({ title, value, color = 'primary', children }: NumberCardPro
 
 const ImageCard = ({ title, image, color = 'primary', children }: ImageCardProps) => {
     const imgStyle = {
-        width: '-webkit-fill-available'
+        width: '-webkit-fill-available',        
     };
 
     return (
@@ -105,7 +126,7 @@ const ImageCard = ({ title, image, color = 'primary', children }: ImageCardProps
     );
 };
 
-const VideoCard = ({ title, video, poster, tags, color = 'white', children }: VideoCardProps) => {
+const VideoCard = ({ title, video, poster, tags, color = 'white', children, callback }: VideoCardProps) => {
     const videoStyle = {
         width: '-webkit-fill-available'
     };
@@ -116,7 +137,12 @@ const VideoCard = ({ title, video, poster, tags, color = 'white', children }: Vi
                     <source src={video} type="video/mp4" />
                     Your browser does not support the video tag.
                 </video>
-                <Card.Title>{title}</Card.Title>
+               <Card.Title 
+                    key={title}
+                        onClick={callback}
+                        >
+                        {title}
+                </Card.Title>
                 {children}
                 {tags.map((item, index) => (
                     <><span style={{ backgroundColor: '#D3D3D3', fontWeight: 'bold' }} key={index}>#{item} </span><span> &nbsp; </span></>
@@ -135,9 +161,9 @@ const WorldCloudCard = ({ words, color = 'white', children }: WorldCloudCardProp
     );
 };
 
-const CommentCard = ({ comment, author, color = 'yellow', children }: CommentCardProps) => {
+const CommentCard = ({ comment, author, color = 'yellow', children, height }: CommentCardProps) => {
     return (
-        <BaseCard color={color}>
+        <BaseCard color={color} height={height}>
             <Card.Text>{comment}</Card.Text>
             <footer className="blockquote-footer">{author}</footer>
             {children}
@@ -177,7 +203,7 @@ const DashboardCard = (props: CardProps) => {
     if ('data' in props) {
         return <GraphCard {...props as GraphCardProps} />;
     } else if ('title' in props && 'value' in props) {
-        return <NumberCard {...props as NumberCardProps} />;
+        return <TextCard {...props as TextCardProps} />;
     } else if ('video' in props) {
         return <VideoCard {...props as VideoCardProps} />;
     } else if ('words' in props) {

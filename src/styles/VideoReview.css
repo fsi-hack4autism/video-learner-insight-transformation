@@ -1,0 +1,12 @@
+.cont {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    border-radius: 5px;
+    border: 0.5px solid black;
+}
+
+
+.listRow {
+    min-height: 500px !important;
+    overflow-y: scroll;
+    border: 2px solid #000 !important;
+}

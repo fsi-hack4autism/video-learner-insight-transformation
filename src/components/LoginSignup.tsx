@@ -16,12 +16,6 @@ const LoginSignup = (props: any) => {
 
     return (
         <Container fluid >
-            <div><p> TEST ONLY</p></div>
-            <Button onClick={(e) => {
-      e.preventDefault();
-      window.location.href='/dashboard';
-      }}>Dashboard</Button>
-            <hr></hr>
             <Row className='d-flex justify-content-center align-items-center h-100' >
                 <Col col='12'>
                     <Card className='my-5 mx-auto card-background' style={{ borderRadius: '1rem', maxWidth: '500px' }}>
@@ -52,7 +46,10 @@ const LoginSignup = (props: any) => {
                             </Button>
 
                             <hr className="my-4 label" />
-                            <img src={MicrosoftLoginImage} alt='login'/>
+                            <Button size='lg' className='mb-3' style={{backgroundColor:`var(--blue)`}} onClick={(e) => {
+      e.preventDefault();
+      window.location.href='/dashboard';
+      }}>Login With Microsoft</Button>
                         </Card.Body>
                     </Card>
                 </Col>

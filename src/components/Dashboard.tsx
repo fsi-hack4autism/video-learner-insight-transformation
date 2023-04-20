@@ -11,7 +11,9 @@ import video3 from '../assets/videos/video3.mp4';
 import video4 from '../assets/videos/video4.mp4';
 
 
-const Dashboard = () => {
+const Dashboard = (props:any) => {
+
+  const { history } = props;
 
   // List of sentiments is analysis of video metadata 
   const sentiments = [
@@ -143,6 +145,16 @@ const Dashboard = () => {
   // Mock data for progress score, this will be replaced with actual data after aggregation
   const progressScore = 87;
 
+  const handleVideoClick = (e: any) => {
+    // this value is title
+    console.log(e);
+    console.log(e.target.value);
+    console.log("video clicked");
+    console.log(e.key);
+    history.push("/video?title=" + e.target.value);
+  }
+
+
   return (
     <>
       <div>
@@ -154,7 +166,7 @@ const Dashboard = () => {
               <DashboardCard title="Learning over time" image={learningGraph} />
             </Col>
             <Col sm='3'>
-              <DashboardCard title="Progress Score" value={progressScore} />
+              <DashboardCard title="Progress Score per week" value={progressScore.toString()} />
             </Col>
             <Col sm='3'>
               <DashboardCard title="Access Users" list={userInteractionData} />
@@ -167,7 +179,7 @@ const Dashboard = () => {
             {recent4Videos.slice(0,4).map((video) => {
               return (
                 <Col sm='3'>
-                  <DashboardCard title={video.title} video={video.src} tags={video.tags} />
+                  <DashboardCard title={video.title} video={video.src} tags={video.tags} key={video.title} callback={handleVideoClick}/>
                 </Col>
               )
             })

@@ -40,7 +40,6 @@
                         <DataGridTextColumn Header="Duration" Binding="{Binding Path=Duration,UpdateSourceTrigger=PropertyChanged}" Width="*" />
                     </DataGrid.Columns>
                 </DataGrid>
-
             </Grid>
         </Border>
 

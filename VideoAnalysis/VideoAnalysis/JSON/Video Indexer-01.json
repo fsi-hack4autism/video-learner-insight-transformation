@@ -5102,6 +5102,33 @@
                 "end": "0:02:17.437"
               }
             ]
+          },
+          {
+            "id": 2,
+            "type": "Anger",
+            "instances": [
+              {
+                "confidence": 0.6935,
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:00:13.76",
+                "start": "0:00:11.29",
+                "end": "0:00:13.76"
+              },
+              {
+                "confidence": 0.7342,
+                "adjustedStart": "0:00:36.33",
+                "adjustedEnd": "0:00:38.68",
+                "start": "0:00:36.33",
+                "end": "0:00:38.68"
+              },
+              {
+                "confidence": 0.6854,
+                "adjustedStart": "0:02:11.81",
+                "adjustedEnd": "0:02:17.437",
+                "start": "0:02:11.81",
+                "end": "0:02:17.437"
+              }
+            ]
           }
         ],
         "visualContentModeration": [

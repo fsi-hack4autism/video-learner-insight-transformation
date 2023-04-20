@@ -76,11 +76,8 @@ namespace VideoAnalysis.DataView
             get { return _isAggregated; }
             set
             {
-                if (_isAggregated != value)
-                {
-                    _isAggregated = value;
-                    NotifyPropertyChange(nameof(IsAggregated));
-                }
+                _isAggregated = value;
+                NotifyPropertyChange(nameof(IsAggregated));
             }
         }
 
@@ -90,11 +87,8 @@ namespace VideoAnalysis.DataView
             get { return _isReset; }
             set
             {
-                if (_isReset != value)
-                {
-                    _isReset = value;
-                    NotifyPropertyChange(nameof(IsReset));
-                }
+                _isReset = value;
+                NotifyPropertyChange(nameof(IsReset));
             }
         }
 

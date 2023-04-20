@@ -1,0 +1,21 @@
+.login {
+  background-color: var(--blue) !important;
+  border: none !important;
+}
+
+.label {
+  color: var(--blue) !important;
+}
+
+.input {
+  border-bottom: 1px;
+  border-top: none !important;
+  border-right: none !important;
+  border-left: none !important;
+  border-radius: 0 !important;
+  border-bottom-color: var(--blue) !important;
+}
+
+.card-background {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+}

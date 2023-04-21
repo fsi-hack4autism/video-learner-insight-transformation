@@ -1,0 +1,5359 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "fd0b19f8-9b9e-4d6f-8bf7-fbf4f1a17fbf",
+  "id": "bd42f44e47",
+  "name": "Retelling 3-2-15.mp4.org",
+  "userName": "Devanshi Thakar",
+  "created": "2020-04-29T18:28:54.3142439+00:00",
+  "isOwned": true,
+  "isEditable": false,
+  "isBase": true,
+  "durationInSeconds": 140,
+  "duration": "0:02:20.416",
+  "summarizedInsights": null,
+  "videos": [
+    {
+      "accountId": "fd0b19f8-9b9e-4d6f-8bf7-fbf4f1a17fbf",
+      "id": "bd42f44e47",
+      "state": "Processed",
+      "moderationState": "OK",
+      "reviewState": "None",
+      "privacyMode": "Private",
+      "processingProgress": "100%",
+      "failureCode": "None",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "version": "1.0.0.0",
+        "duration": "0:02:20.416",
+        "sourceLanguage": "en-US",
+        "sourceLanguages": [ "en-US" ],
+        "language": "en-US",
+        "languages": [ "en-US" ],
+        "transcript": [
+          {
+            "id": 1,
+            "text": "OK,",
+            "confidence": 0.8919,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.04",
+                "adjustedEnd": "0:00:03.37",
+                "start": "0:00:03.04",
+                "end": "0:00:03.37"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "listen to this story. OK Joseph went to Guitar Center.",
+            "confidence": 0.8244,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.37",
+                "adjustedEnd": "0:00:08.835",
+                "start": "0:00:03.37",
+                "end": "0:00:08.835"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "He played a couple of keyboards.",
+            "confidence": 0.7794,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.909",
+                "adjustedEnd": "0:00:11.29",
+                "start": "0:00:08.909",
+                "end": "0:00:11.29"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Joseph bought a new purple guitar.",
+            "confidence": 0.7794,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:00:13.76",
+                "start": "0:00:11.29",
+                "end": "0:00:13.76"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "He was so excited he couldn't wait to show,",
+            "confidence": 0.7794,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.76",
+                "adjustedEnd": "0:00:17.48",
+                "start": "0:00:13.76",
+                "end": "0:00:17.48"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "but some other purple guitars that I don't know.",
+            "confidence": 0.7794,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:17.48",
+                "adjustedEnd": "0:00:22.61",
+                "start": "0:00:17.48",
+                "end": "0:00:22.61"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "OK, you can make the story doesn't say what kind of guitar it is.",
+            "confidence": 0.8208,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:22.61",
+                "adjustedEnd": "0:00:28.1",
+                "start": "0:00:22.61",
+                "end": "0:00:28.1"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "It just says guitar. I'll read it again.",
+            "confidence": 0.8208,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.1",
+                "adjustedEnd": "0:00:31.23",
+                "start": "0:00:28.1",
+                "end": "0:00:31.23"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "OK, Joseph went to the Guitar Center,",
+            "confidence": 0.8208,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:31.23",
+                "adjustedEnd": "0:00:33.98",
+                "start": "0:00:31.23",
+                "end": "0:00:33.98"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "he played a couple of keyboards.",
+            "confidence": 0.8208,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.98",
+                "adjustedEnd": "0:00:36.33",
+                "start": "0:00:33.98",
+                "end": "0:00:36.33"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Joseph bought a new purple guitar.",
+            "confidence": 0.8208,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:36.33",
+                "adjustedEnd": "0:00:38.68",
+                "start": "0:00:36.33",
+                "end": "0:00:38.68"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "He was so excited he couldn't wait to show his brother.",
+            "confidence": 0.8208,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38.68",
+                "adjustedEnd": "0:00:44.47",
+                "start": "0:00:38.68",
+                "end": "0:00:44.47"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Here's the first sentence of the story.",
+            "confidence": 0.8806,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:44.47",
+                "adjustedEnd": "0:00:47.54",
+                "start": "0:00:44.47",
+                "end": "0:00:47.54"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Joseph went to Guitar Center say that Joseph went to Qatar,",
+            "confidence": 0.7926,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:47.54",
+                "adjustedEnd": "0:00:51.56",
+                "start": "0:00:47.54",
+                "end": "0:00:51.56"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "sent Awesome Drew,",
+            "confidence": 0.7926,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:51.56",
+                "adjustedEnd": "0:00:52.65",
+                "start": "0:00:51.56",
+                "end": "0:00:52.65"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "then the story told what he played.",
+            "confidence": 0.7926,
+            "speakerId": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:52.65",
+                "adjustedEnd": "0:00:55.21",
+                "start": "0:00:52.65",
+                "end": "0:00:55.21"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "Start with the words with he played a couple.",
+            "confidence": 0.7926,
+            "speakerId": 3,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:55.21",
+                "adjustedEnd": "0:00:58.49",
+                "start": "0:00:55.21",
+                "end": "0:00:58.49"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "He played a couple of keyboards.",
+            "confidence": 0.7926,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:58.49",
+                "adjustedEnd": "0:01:00.68",
+                "start": "0:00:58.49",
+                "end": "0:01:00.68"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "Yes, you got it. What did Joseph buy?",
+            "confidence": 0.7733,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:00.68",
+                "adjustedEnd": "0:01:05.403",
+                "start": "0:01:00.68",
+                "end": "0:01:05.403"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "Joseph bought a purple electric guitar epoa new purple guitar.",
+            "confidence": 0.7539,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:05.499",
+                "adjustedEnd": "0:01:11.49",
+                "start": "0:01:05.499",
+                "end": "0:01:11.49"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "That's right. How did Joseph feel to feel",
+            "confidence": 0.7335,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:11.49",
+                "adjustedEnd": "0:01:16.49",
+                "start": "0:01:11.49",
+                "end": "0:01:16.49"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "excited? Excited, you're right good.",
+            "confidence": 0.7272,
+            "speakerId": 4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16.49",
+                "adjustedEnd": "0:01:19.89",
+                "start": "0:01:16.49",
+                "end": "0:01:19.89"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "Who is",
+            "confidence": 0.8015,
+            "speakerId": 4,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:19.89",
+                "adjustedEnd": "0:01:20.75",
+                "start": "0:01:19.89",
+                "end": "0:01:20.75"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "Joseph going to show his new guitar to",
+            "confidence": 0.8015,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:20.75",
+                "adjustedEnd": "0:01:24.19",
+                "start": "0:01:20.75",
+                "end": "0:01:24.19"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "Dad? This is his mom,",
+            "confidence": 0.8349,
+            "speakerId": 5,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:24.19",
+                "adjustedEnd": "0:01:26.76",
+                "start": "0:01:24.19",
+                "end": "0:01:26.76"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "not his mom. I read that part again.",
+            "confidence": 0.8433,
+            "speakerId": 5,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:26.76",
+                "adjustedEnd": "0:01:29.91",
+                "start": "0:01:26.76",
+                "end": "0:01:29.91"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "He was so excited he",
+            "confidence": 0.8433,
+            "speakerId": 5,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:29.91",
+                "adjustedEnd": "0:01:31.87",
+                "start": "0:01:29.91",
+                "end": "0:01:31.87"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "couldn't wait to show his brother so his brother.",
+            "confidence": 0.8433,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:31.87",
+                "adjustedEnd": "0:01:35.466",
+                "start": "0:01:31.87",
+                "end": "0:01:35.466"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "Yeah, OK, I'll save the story again.",
+            "confidence": 0.8433,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:35.521",
+                "adjustedEnd": "0:01:38.16",
+                "start": "0:01:35.521",
+                "end": "0:01:38.16"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "OK Joseph went to Guitar Center.",
+            "confidence": 0.8433,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:38.16",
+                "adjustedEnd": "0:01:40.52",
+                "start": "0:01:38.16",
+                "end": "0:01:40.52"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "text": "He played a couple of keyboards.",
+            "confidence": 0.8623,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:01:44.69",
+                "start": "0:01:42.73",
+                "end": "0:01:44.69"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "text": "Joseph bought a new purple guitar.",
+            "confidence": 0.8623,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:44.69",
+                "adjustedEnd": "0:01:46.64",
+                "start": "0:01:44.69",
+                "end": "0:01:46.64"
+              }
+            ]
+          },
+          {
+            "id": 33,
+            "text": "He was so excited he couldn't wait to show his brother.",
+            "confidence": 0.8623,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:46.64",
+                "adjustedEnd": "0:01:50.23",
+                "start": "0:01:46.64",
+                "end": "0:01:50.23"
+              }
+            ]
+          },
+          {
+            "id": 34,
+            "text": "Now it's your turn to tell the story.",
+            "confidence": 0.8623,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:50.23",
+                "adjustedEnd": "0:01:52.84",
+                "start": "0:01:50.23",
+                "end": "0:01:52.84"
+              }
+            ]
+          },
+          {
+            "id": 35,
+            "text": "Start with Joseph, went to the Guitar Center.",
+            "confidence": 0.8623,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:52.84",
+                "adjustedEnd": "0:01:56.81",
+                "start": "0:01:52.84",
+                "end": "0:01:56.81"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "text": "Sometimes. He will play.",
+            "confidence": 0.7637,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:56.81",
+                "adjustedEnd": "0:02:02.98",
+                "start": "0:01:56.81",
+                "end": "0:02:02.98"
+              }
+            ]
+          },
+          {
+            "id": 37,
+            "text": "Couple of keyboards. Just got a purple Guitar and Joe stuff.",
+            "confidence": 0.6868,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:04.24",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:02:04.24",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 38,
+            "text": "Was so",
+            "confidence": 0.8231,
+            "speakerId": 1,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:11.81",
+                "adjustedEnd": "0:02:12.63",
+                "start": "0:02:11.81",
+                "end": "0:02:12.63"
+              }
+            ]
+          },
+          {
+            "id": 39,
+            "text": "excited at. He showed Anton is that Joseph's brothers name yes drill wow.",
+            "confidence": 0.6489,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:12.63",
+                "adjustedEnd": "0:02:18.68",
+                "start": "0:02:12.63",
+                "end": "0:02:18.68"
+              }
+            ]
+          },
+          {
+            "id": 40,
+            "text": "That was great Rita.",
+            "confidence": 0.6172,
+            "speakerId": 2,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:02:18.68",
+                "adjustedEnd": "0:02:20.373",
+                "start": "0:02:18.68",
+                "end": "0:02:20.373"
+              }
+            ]
+          }
+        ],
+        "keywords": [
+          {
+            "id": 1,
+            "text": "guitar center",
+            "confidence": 0.9962,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.37",
+                "adjustedEnd": "0:00:08.835",
+                "start": "0:00:03.37",
+                "end": "0:00:08.835"
+              },
+              {
+                "adjustedStart": "0:00:31.23",
+                "adjustedEnd": "0:00:33.98",
+                "start": "0:00:31.23",
+                "end": "0:00:33.98"
+              },
+              {
+                "adjustedStart": "0:00:47.54",
+                "adjustedEnd": "0:00:51.56",
+                "start": "0:00:47.54",
+                "end": "0:00:51.56"
+              },
+              {
+                "adjustedStart": "0:01:38.16",
+                "adjustedEnd": "0:01:40.52",
+                "start": "0:01:38.16",
+                "end": "0:01:40.52"
+              },
+              {
+                "adjustedStart": "0:01:52.84",
+                "adjustedEnd": "0:01:56.81",
+                "start": "0:01:52.84",
+                "end": "0:01:56.81"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "purple guitar",
+            "confidence": 0.9962,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:00:13.76",
+                "start": "0:00:11.29",
+                "end": "0:00:13.76"
+              },
+              {
+                "adjustedStart": "0:00:17.48",
+                "adjustedEnd": "0:00:22.61",
+                "start": "0:00:17.48",
+                "end": "0:00:22.61"
+              },
+              {
+                "adjustedStart": "0:00:36.33",
+                "adjustedEnd": "0:00:38.68",
+                "start": "0:00:36.33",
+                "end": "0:00:38.68"
+              },
+              {
+                "adjustedStart": "0:01:05.499",
+                "adjustedEnd": "0:01:11.49",
+                "start": "0:01:05.499",
+                "end": "0:01:11.49"
+              },
+              {
+                "adjustedStart": "0:01:44.69",
+                "adjustedEnd": "0:01:46.64",
+                "start": "0:01:44.69",
+                "end": "0:01:46.64"
+              },
+              {
+                "adjustedStart": "0:02:04.24",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:02:04.24",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "joseph bought",
+            "confidence": 0.993,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:00:13.76",
+                "start": "0:00:11.29",
+                "end": "0:00:13.76"
+              },
+              {
+                "adjustedStart": "0:00:36.33",
+                "adjustedEnd": "0:00:38.68",
+                "start": "0:00:36.33",
+                "end": "0:00:38.68"
+              },
+              {
+                "adjustedStart": "0:01:05.499",
+                "adjustedEnd": "0:01:11.49",
+                "start": "0:01:05.499",
+                "end": "0:01:11.49"
+              },
+              {
+                "adjustedStart": "0:01:44.69",
+                "adjustedEnd": "0:01:46.64",
+                "start": "0:01:44.69",
+                "end": "0:01:46.64"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "guitar",
+            "confidence": 0.8706,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.37",
+                "adjustedEnd": "0:00:08.835",
+                "start": "0:00:03.37",
+                "end": "0:00:08.835"
+              },
+              {
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:00:13.76",
+                "start": "0:00:11.29",
+                "end": "0:00:13.76"
+              },
+              {
+                "adjustedStart": "0:00:17.48",
+                "adjustedEnd": "0:00:22.61",
+                "start": "0:00:17.48",
+                "end": "0:00:22.61"
+              },
+              {
+                "adjustedStart": "0:00:22.61",
+                "adjustedEnd": "0:00:28.1",
+                "start": "0:00:22.61",
+                "end": "0:00:28.1"
+              },
+              {
+                "adjustedStart": "0:00:28.1",
+                "adjustedEnd": "0:00:31.23",
+                "start": "0:00:28.1",
+                "end": "0:00:31.23"
+              },
+              {
+                "adjustedStart": "0:00:31.23",
+                "adjustedEnd": "0:00:33.98",
+                "start": "0:00:31.23",
+                "end": "0:00:33.98"
+              },
+              {
+                "adjustedStart": "0:00:36.33",
+                "adjustedEnd": "0:00:38.68",
+                "start": "0:00:36.33",
+                "end": "0:00:38.68"
+              },
+              {
+                "adjustedStart": "0:00:47.54",
+                "adjustedEnd": "0:00:51.56",
+                "start": "0:00:47.54",
+                "end": "0:00:51.56"
+              },
+              {
+                "adjustedStart": "0:01:05.499",
+                "adjustedEnd": "0:01:11.49",
+                "start": "0:01:05.499",
+                "end": "0:01:11.49"
+              },
+              {
+                "adjustedStart": "0:01:20.75",
+                "adjustedEnd": "0:01:24.19",
+                "start": "0:01:20.75",
+                "end": "0:01:24.19"
+              },
+              {
+                "adjustedStart": "0:01:38.16",
+                "adjustedEnd": "0:01:40.52",
+                "start": "0:01:38.16",
+                "end": "0:01:40.52"
+              },
+              {
+                "adjustedStart": "0:01:44.69",
+                "adjustedEnd": "0:01:46.64",
+                "start": "0:01:44.69",
+                "end": "0:01:46.64"
+              },
+              {
+                "adjustedStart": "0:01:52.84",
+                "adjustedEnd": "0:01:56.81",
+                "start": "0:01:52.84",
+                "end": "0:01:56.81"
+              },
+              {
+                "adjustedStart": "0:02:04.24",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:02:04.24",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "joseph",
+            "confidence": 0.7826,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.37",
+                "adjustedEnd": "0:00:08.835",
+                "start": "0:00:03.37",
+                "end": "0:00:08.835"
+              },
+              {
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:00:13.76",
+                "start": "0:00:11.29",
+                "end": "0:00:13.76"
+              },
+              {
+                "adjustedStart": "0:00:31.23",
+                "adjustedEnd": "0:00:33.98",
+                "start": "0:00:31.23",
+                "end": "0:00:33.98"
+              },
+              {
+                "adjustedStart": "0:00:36.33",
+                "adjustedEnd": "0:00:38.68",
+                "start": "0:00:36.33",
+                "end": "0:00:38.68"
+              },
+              {
+                "adjustedStart": "0:00:47.54",
+                "adjustedEnd": "0:00:51.56",
+                "start": "0:00:47.54",
+                "end": "0:00:51.56"
+              },
+              {
+                "adjustedStart": "0:01:00.68",
+                "adjustedEnd": "0:01:05.403",
+                "start": "0:01:00.68",
+                "end": "0:01:05.403"
+              },
+              {
+                "adjustedStart": "0:01:05.499",
+                "adjustedEnd": "0:01:11.49",
+                "start": "0:01:05.499",
+                "end": "0:01:11.49"
+              },
+              {
+                "adjustedStart": "0:01:11.49",
+                "adjustedEnd": "0:01:16.49",
+                "start": "0:01:11.49",
+                "end": "0:01:16.49"
+              },
+              {
+                "adjustedStart": "0:01:20.75",
+                "adjustedEnd": "0:01:24.19",
+                "start": "0:01:20.75",
+                "end": "0:01:24.19"
+              },
+              {
+                "adjustedStart": "0:01:38.16",
+                "adjustedEnd": "0:01:40.52",
+                "start": "0:01:38.16",
+                "end": "0:01:40.52"
+              },
+              {
+                "adjustedStart": "0:01:44.69",
+                "adjustedEnd": "0:01:46.64",
+                "start": "0:01:44.69",
+                "end": "0:01:46.64"
+              },
+              {
+                "adjustedStart": "0:01:52.84",
+                "adjustedEnd": "0:01:56.81",
+                "start": "0:01:52.84",
+                "end": "0:01:56.81"
+              },
+              {
+                "adjustedStart": "0:02:12.63",
+                "adjustedEnd": "0:02:18.68",
+                "start": "0:02:12.63",
+                "end": "0:02:18.68"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "story",
+            "confidence": 0.69,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.37",
+                "adjustedEnd": "0:00:08.835",
+                "start": "0:00:03.37",
+                "end": "0:00:08.835"
+              },
+              {
+                "adjustedStart": "0:00:22.61",
+                "adjustedEnd": "0:00:28.1",
+                "start": "0:00:22.61",
+                "end": "0:00:28.1"
+              },
+              {
+                "adjustedStart": "0:00:44.47",
+                "adjustedEnd": "0:00:47.54",
+                "start": "0:00:44.47",
+                "end": "0:00:47.54"
+              },
+              {
+                "adjustedStart": "0:00:52.65",
+                "adjustedEnd": "0:00:55.21",
+                "start": "0:00:52.65",
+                "end": "0:00:55.21"
+              },
+              {
+                "adjustedStart": "0:01:35.521",
+                "adjustedEnd": "0:01:38.16",
+                "start": "0:01:35.521",
+                "end": "0:01:38.16"
+              },
+              {
+                "adjustedStart": "0:01:50.23",
+                "adjustedEnd": "0:01:52.84",
+                "start": "0:01:50.23",
+                "end": "0:01:52.84"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "excited",
+            "confidence": 0.6806,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.76",
+                "adjustedEnd": "0:00:17.48",
+                "start": "0:00:13.76",
+                "end": "0:00:17.48"
+              },
+              {
+                "adjustedStart": "0:00:38.68",
+                "adjustedEnd": "0:00:44.47",
+                "start": "0:00:38.68",
+                "end": "0:00:44.47"
+              },
+              {
+                "adjustedStart": "0:01:16.49",
+                "adjustedEnd": "0:01:19.89",
+                "start": "0:01:16.49",
+                "end": "0:01:19.89"
+              },
+              {
+                "adjustedStart": "0:01:29.91",
+                "adjustedEnd": "0:01:31.87",
+                "start": "0:01:29.91",
+                "end": "0:01:31.87"
+              },
+              {
+                "adjustedStart": "0:01:46.64",
+                "adjustedEnd": "0:01:50.23",
+                "start": "0:01:46.64",
+                "end": "0:01:50.23"
+              },
+              {
+                "adjustedStart": "0:02:12.63",
+                "adjustedEnd": "0:02:18.68",
+                "start": "0:02:12.63",
+                "end": "0:02:18.68"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "played",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.909",
+                "adjustedEnd": "0:00:11.29",
+                "start": "0:00:08.909",
+                "end": "0:00:11.29"
+              },
+              {
+                "adjustedStart": "0:00:33.98",
+                "adjustedEnd": "0:00:36.33",
+                "start": "0:00:33.98",
+                "end": "0:00:36.33"
+              },
+              {
+                "adjustedStart": "0:00:52.65",
+                "adjustedEnd": "0:00:55.21",
+                "start": "0:00:52.65",
+                "end": "0:00:55.21"
+              },
+              {
+                "adjustedStart": "0:00:55.21",
+                "adjustedEnd": "0:00:58.49",
+                "start": "0:00:55.21",
+                "end": "0:00:58.49"
+              },
+              {
+                "adjustedStart": "0:00:58.49",
+                "adjustedEnd": "0:01:00.68",
+                "start": "0:00:58.49",
+                "end": "0:01:00.68"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:01:44.69",
+                "start": "0:01:42.73",
+                "end": "0:01:44.69"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "couple",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.909",
+                "adjustedEnd": "0:00:11.29",
+                "start": "0:00:08.909",
+                "end": "0:00:11.29"
+              },
+              {
+                "adjustedStart": "0:00:33.98",
+                "adjustedEnd": "0:00:36.33",
+                "start": "0:00:33.98",
+                "end": "0:00:36.33"
+              },
+              {
+                "adjustedStart": "0:00:55.21",
+                "adjustedEnd": "0:00:58.49",
+                "start": "0:00:55.21",
+                "end": "0:00:58.49"
+              },
+              {
+                "adjustedStart": "0:00:58.49",
+                "adjustedEnd": "0:01:00.68",
+                "start": "0:00:58.49",
+                "end": "0:01:00.68"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:01:44.69",
+                "start": "0:01:42.73",
+                "end": "0:01:44.69"
+              },
+              {
+                "adjustedStart": "0:02:04.24",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:02:04.24",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "keyboards",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.909",
+                "adjustedEnd": "0:00:11.29",
+                "start": "0:00:08.909",
+                "end": "0:00:11.29"
+              },
+              {
+                "adjustedStart": "0:00:33.98",
+                "adjustedEnd": "0:00:36.33",
+                "start": "0:00:33.98",
+                "end": "0:00:36.33"
+              },
+              {
+                "adjustedStart": "0:00:58.49",
+                "adjustedEnd": "0:01:00.68",
+                "start": "0:00:58.49",
+                "end": "0:01:00.68"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:01:44.69",
+                "start": "0:01:42.73",
+                "end": "0:01:44.69"
+              },
+              {
+                "adjustedStart": "0:02:04.24",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:02:04.24",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "wait",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.76",
+                "adjustedEnd": "0:00:17.48",
+                "start": "0:00:13.76",
+                "end": "0:00:17.48"
+              },
+              {
+                "adjustedStart": "0:00:38.68",
+                "adjustedEnd": "0:00:44.47",
+                "start": "0:00:38.68",
+                "end": "0:00:44.47"
+              },
+              {
+                "adjustedStart": "0:01:31.87",
+                "adjustedEnd": "0:01:35.466",
+                "start": "0:01:31.87",
+                "end": "0:01:35.466"
+              },
+              {
+                "adjustedStart": "0:01:46.64",
+                "adjustedEnd": "0:01:50.23",
+                "start": "0:01:46.64",
+                "end": "0:01:50.23"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "show",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:13.76",
+                "adjustedEnd": "0:00:17.48",
+                "start": "0:00:13.76",
+                "end": "0:00:17.48"
+              },
+              {
+                "adjustedStart": "0:00:38.68",
+                "adjustedEnd": "0:00:44.47",
+                "start": "0:00:38.68",
+                "end": "0:00:44.47"
+              },
+              {
+                "adjustedStart": "0:01:20.75",
+                "adjustedEnd": "0:01:24.19",
+                "start": "0:01:20.75",
+                "end": "0:01:24.19"
+              },
+              {
+                "adjustedStart": "0:01:31.87",
+                "adjustedEnd": "0:01:35.466",
+                "start": "0:01:31.87",
+                "end": "0:01:35.466"
+              },
+              {
+                "adjustedStart": "0:01:46.64",
+                "adjustedEnd": "0:01:50.23",
+                "start": "0:01:46.64",
+                "end": "0:01:50.23"
+              },
+              {
+                "adjustedStart": "0:02:12.63",
+                "adjustedEnd": "0:02:18.68",
+                "start": "0:02:12.63",
+                "end": "0:02:18.68"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "read",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:28.1",
+                "adjustedEnd": "0:00:31.23",
+                "start": "0:00:28.1",
+                "end": "0:00:31.23"
+              },
+              {
+                "adjustedStart": "0:01:26.76",
+                "adjustedEnd": "0:01:29.91",
+                "start": "0:01:26.76",
+                "end": "0:01:29.91"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "brother",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:38.68",
+                "adjustedEnd": "0:00:44.47",
+                "start": "0:00:38.68",
+                "end": "0:00:44.47"
+              },
+              {
+                "adjustedStart": "0:01:31.87",
+                "adjustedEnd": "0:01:35.466",
+                "start": "0:01:31.87",
+                "end": "0:01:35.466"
+              },
+              {
+                "adjustedStart": "0:01:46.64",
+                "adjustedEnd": "0:01:50.23",
+                "start": "0:01:46.64",
+                "end": "0:01:50.23"
+              },
+              {
+                "adjustedStart": "0:02:12.63",
+                "adjustedEnd": "0:02:18.68",
+                "start": "0:02:12.63",
+                "end": "0:02:18.68"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "start",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:55.21",
+                "adjustedEnd": "0:00:58.49",
+                "start": "0:00:55.21",
+                "end": "0:00:58.49"
+              },
+              {
+                "adjustedStart": "0:01:52.84",
+                "adjustedEnd": "0:01:56.81",
+                "start": "0:01:52.84",
+                "end": "0:01:56.81"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "play",
+            "confidence": 0.6211,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:08.909",
+                "adjustedEnd": "0:00:11.29",
+                "start": "0:00:08.909",
+                "end": "0:00:11.29"
+              },
+              {
+                "adjustedStart": "0:00:33.98",
+                "adjustedEnd": "0:00:36.33",
+                "start": "0:00:33.98",
+                "end": "0:00:36.33"
+              },
+              {
+                "adjustedStart": "0:00:52.65",
+                "adjustedEnd": "0:00:55.21",
+                "start": "0:00:52.65",
+                "end": "0:00:55.21"
+              },
+              {
+                "adjustedStart": "0:00:55.21",
+                "adjustedEnd": "0:00:58.49",
+                "start": "0:00:55.21",
+                "end": "0:00:58.49"
+              },
+              {
+                "adjustedStart": "0:00:58.49",
+                "adjustedEnd": "0:01:00.68",
+                "start": "0:00:58.49",
+                "end": "0:01:00.68"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:01:44.69",
+                "start": "0:01:42.73",
+                "end": "0:01:44.69"
+              },
+              {
+                "adjustedStart": "0:01:56.81",
+                "adjustedEnd": "0:02:02.98",
+                "start": "0:01:56.81",
+                "end": "0:02:02.98"
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 1,
+            "name": "Electric Guitars",
+            "referenceId": "Electric Guitars",
+            "referenceType": "VideoIndexer",
+            "confidence": 1,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:01:19.89",
+                "start": "0:00:11.29",
+                "end": "0:01:19.89"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:01:42.73",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Guitarists",
+            "referenceId": "Guitarists",
+            "referenceType": "VideoIndexer",
+            "confidence": 1,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:01:19.89",
+                "start": "0:00:11.29",
+                "end": "0:01:19.89"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:01:42.73",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Playing Guitar",
+            "referenceId": "Music/Guitars/Playing Guitar",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture and entertainment/music",
+            "confidence": 1,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:01:35.466",
+                "start": "0:00:11.29",
+                "end": "0:01:35.466"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:01:42.73",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Music",
+            "referenceId": "Music",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture and entertainment",
+            "confidence": 1,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:01:42.73",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Blues Music",
+            "referenceId": "Blues Music",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.754,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.98",
+                "adjustedEnd": "0:00:58.49",
+                "start": "0:00:33.98",
+                "end": "0:00:58.49"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:01:42.73",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Eric Clapton",
+            "referenceId": "Eric Clapton",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.6366,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.98",
+                "adjustedEnd": "0:00:52.65",
+                "start": "0:00:33.98",
+                "end": "0:00:52.65"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:01:42.73",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Musical Instruments",
+            "referenceId": "Music/Instruments/Musical Instruments",
+            "referenceType": "VideoIndexer",
+            "iptcName": "arts, culture and entertainment/music",
+            "confidence": 0.4457,
+            "iabName": "Music and Audio",
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.98",
+                "adjustedEnd": "0:01:19.89",
+                "start": "0:00:33.98",
+                "end": "0:01:19.89"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:01:42.73",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Jerry Garcia",
+            "referenceId": "Jerry Garcia",
+            "referenceType": "VideoIndexer",
+            "confidence": 0.4109,
+            "iabName": null,
+            "language": "en-US",
+            "instances": [
+              {
+                "adjustedStart": "0:00:33.98",
+                "adjustedEnd": "0:01:19.89",
+                "start": "0:00:33.98",
+                "end": "0:01:19.89"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:02:02.98",
+                "start": "0:01:42.73",
+                "end": "0:02:02.98"
+              }
+            ]
+          }
+        ],
+        "faces": [
+          {
+            "id": 2891,
+            "name": "Unknown #1",
+            "confidence": 0,
+            "description": null,
+            "thumbnailId": "bbbddeee-3fc8-4df6-a00b-850ade3787f3",
+            "title": null,
+            "imageUrl": null,
+            "thumbnails": [
+              {
+                "id": "12b1e9c6-8fab-4a46-ab57-b0f189dca600",
+                "fileName": "FaceInstanceThumbnail_12b1e9c6-8fab-4a46-ab57-b0f189dca600.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:00",
+                    "adjustedEnd": "0:00:00.034",
+                    "start": "0:00:00",
+                    "end": "0:00:00.034"
+                  }
+                ]
+              },
+              {
+                "id": "0302d8eb-dbe1-4951-9ad5-23f38580b59e",
+                "fileName": "FaceInstanceThumbnail_0302d8eb-dbe1-4951-9ad5-23f38580b59e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:05.001",
+                    "adjustedEnd": "0:00:05.035",
+                    "start": "0:00:05.001",
+                    "end": "0:00:05.035"
+                  }
+                ]
+              },
+              {
+                "id": "0a0c2f22-162f-4a27-94e5-eca5282fe556",
+                "fileName": "FaceInstanceThumbnail_0a0c2f22-162f-4a27-94e5-eca5282fe556.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:10.054",
+                    "adjustedEnd": "0:00:10.088",
+                    "start": "0:00:10.054",
+                    "end": "0:00:10.088"
+                  }
+                ]
+              },
+              {
+                "id": "94aaa83c-d11d-40bd-a417-8a6d4b94341f",
+                "fileName": "FaceInstanceThumbnail_94aaa83c-d11d-40bd-a417-8a6d4b94341f.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:15.107",
+                    "adjustedEnd": "0:00:15.141",
+                    "start": "0:00:15.107",
+                    "end": "0:00:15.141"
+                  }
+                ]
+              },
+              {
+                "id": "4724aacb-fe52-47ee-ae1c-7adcecc28d59",
+                "fileName": "FaceInstanceThumbnail_4724aacb-fe52-47ee-ae1c-7adcecc28d59.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:20.16",
+                    "adjustedEnd": "0:00:20.194",
+                    "start": "0:00:20.16",
+                    "end": "0:00:20.194"
+                  }
+                ]
+              },
+              {
+                "id": "db0404e4-624c-4304-b653-34d07775732a",
+                "fileName": "FaceInstanceThumbnail_db0404e4-624c-4304-b653-34d07775732a.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:25.213",
+                    "adjustedEnd": "0:00:25.247",
+                    "start": "0:00:25.213",
+                    "end": "0:00:25.247"
+                  }
+                ]
+              },
+              {
+                "id": "931d9647-1928-4967-a1fc-e0b5b200370e",
+                "fileName": "FaceInstanceThumbnail_931d9647-1928-4967-a1fc-e0b5b200370e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:30.266",
+                    "adjustedEnd": "0:00:30.3",
+                    "start": "0:00:30.266",
+                    "end": "0:00:30.3"
+                  }
+                ]
+              },
+              {
+                "id": "da9f67f2-344d-4041-ad16-49090f715bfb",
+                "fileName": "FaceInstanceThumbnail_da9f67f2-344d-4041-ad16-49090f715bfb.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:35.319",
+                    "adjustedEnd": "0:00:35.353",
+                    "start": "0:00:35.319",
+                    "end": "0:00:35.353"
+                  }
+                ]
+              },
+              {
+                "id": "d80cb709-33c3-4cf9-b669-ef9e53072136",
+                "fileName": "FaceInstanceThumbnail_d80cb709-33c3-4cf9-b669-ef9e53072136.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:40.372",
+                    "adjustedEnd": "0:00:40.406",
+                    "start": "0:00:40.372",
+                    "end": "0:00:40.406"
+                  }
+                ]
+              },
+              {
+                "id": "38ad76f6-51b3-4a33-9e0d-2dedf19d468c",
+                "fileName": "FaceInstanceThumbnail_38ad76f6-51b3-4a33-9e0d-2dedf19d468c.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:45.425",
+                    "adjustedEnd": "0:00:45.459",
+                    "start": "0:00:45.425",
+                    "end": "0:00:45.459"
+                  }
+                ]
+              },
+              {
+                "id": "9a24d606-89d3-480f-a558-1765dc7c4af2",
+                "fileName": "FaceInstanceThumbnail_9a24d606-89d3-480f-a558-1765dc7c4af2.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:50.478",
+                    "adjustedEnd": "0:00:50.512",
+                    "start": "0:00:50.478",
+                    "end": "0:00:50.512"
+                  }
+                ]
+              },
+              {
+                "id": "9262b7d1-7932-49f8-920a-df4afc19e65c",
+                "fileName": "FaceInstanceThumbnail_9262b7d1-7932-49f8-920a-df4afc19e65c.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:00:55.531",
+                    "adjustedEnd": "0:00:55.565",
+                    "start": "0:00:55.531",
+                    "end": "0:00:55.565"
+                  }
+                ]
+              },
+              {
+                "id": "a3d95c2e-7a0d-4119-a362-e4f3e150e5aa",
+                "fileName": "FaceInstanceThumbnail_a3d95c2e-7a0d-4119-a362-e4f3e150e5aa.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:00.584",
+                    "adjustedEnd": "0:01:00.618",
+                    "start": "0:01:00.584",
+                    "end": "0:01:00.618"
+                  }
+                ]
+              },
+              {
+                "id": "fb553c26-45c6-42ce-b352-1a4f1ca3bad1",
+                "fileName": "FaceInstanceThumbnail_fb553c26-45c6-42ce-b352-1a4f1ca3bad1.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:05.637",
+                    "adjustedEnd": "0:01:05.671",
+                    "start": "0:01:05.637",
+                    "end": "0:01:05.671"
+                  }
+                ]
+              },
+              {
+                "id": "e245d867-1f1b-4640-8343-e40e1f3d0cad",
+                "fileName": "FaceInstanceThumbnail_e245d867-1f1b-4640-8343-e40e1f3d0cad.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:10.69",
+                    "adjustedEnd": "0:01:10.724",
+                    "start": "0:01:10.69",
+                    "end": "0:01:10.724"
+                  }
+                ]
+              },
+              {
+                "id": "5196c923-72b2-4c4e-b426-5244f09e9375",
+                "fileName": "FaceInstanceThumbnail_5196c923-72b2-4c4e-b426-5244f09e9375.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:15.743",
+                    "adjustedEnd": "0:01:15.777",
+                    "start": "0:01:15.743",
+                    "end": "0:01:15.777"
+                  }
+                ]
+              },
+              {
+                "id": "ffcd8dd8-a25a-46a2-8113-8aa18efd7e02",
+                "fileName": "FaceInstanceThumbnail_ffcd8dd8-a25a-46a2-8113-8aa18efd7e02.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:20.796",
+                    "adjustedEnd": "0:01:20.83",
+                    "start": "0:01:20.796",
+                    "end": "0:01:20.83"
+                  }
+                ]
+              },
+              {
+                "id": "d97388fd-9e38-424a-8cbb-987e72b7b467",
+                "fileName": "FaceInstanceThumbnail_d97388fd-9e38-424a-8cbb-987e72b7b467.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:25.848",
+                    "adjustedEnd": "0:01:25.882",
+                    "start": "0:01:25.848",
+                    "end": "0:01:25.882"
+                  }
+                ]
+              },
+              {
+                "id": "9c54a557-ece2-4c34-bba6-45499ef43436",
+                "fileName": "FaceInstanceThumbnail_9c54a557-ece2-4c34-bba6-45499ef43436.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:30.901",
+                    "adjustedEnd": "0:01:30.935",
+                    "start": "0:01:30.901",
+                    "end": "0:01:30.935"
+                  }
+                ]
+              },
+              {
+                "id": "f5a879b1-b973-4d72-ab52-62c73686072e",
+                "fileName": "FaceInstanceThumbnail_f5a879b1-b973-4d72-ab52-62c73686072e.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:35.954",
+                    "adjustedEnd": "0:01:35.988",
+                    "start": "0:01:35.954",
+                    "end": "0:01:35.988"
+                  }
+                ]
+              },
+              {
+                "id": "bbbddeee-3fc8-4df6-a00b-850ade3787f3",
+                "fileName": "FaceInstanceThumbnail_bbbddeee-3fc8-4df6-a00b-850ade3787f3.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:41.007",
+                    "adjustedEnd": "0:01:41.041",
+                    "start": "0:01:41.007",
+                    "end": "0:01:41.041"
+                  }
+                ]
+              },
+              {
+                "id": "88a74518-ef9a-4e05-95e6-33037818c728",
+                "fileName": "FaceInstanceThumbnail_88a74518-ef9a-4e05-95e6-33037818c728.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:46.06",
+                    "adjustedEnd": "0:01:46.094",
+                    "start": "0:01:46.06",
+                    "end": "0:01:46.094"
+                  }
+                ]
+              },
+              {
+                "id": "26bd93ce-58cb-4b4e-9989-77f5afde26ec",
+                "fileName": "FaceInstanceThumbnail_26bd93ce-58cb-4b4e-9989-77f5afde26ec.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:51.113",
+                    "adjustedEnd": "0:01:51.147",
+                    "start": "0:01:51.113",
+                    "end": "0:01:51.147"
+                  }
+                ]
+              },
+              {
+                "id": "835e87ef-c251-4f24-b7e5-9606e5e79ef3",
+                "fileName": "FaceInstanceThumbnail_835e87ef-c251-4f24-b7e5-9606e5e79ef3.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:01:56.166",
+                    "adjustedEnd": "0:01:56.2",
+                    "start": "0:01:56.166",
+                    "end": "0:01:56.2"
+                  }
+                ]
+              },
+              {
+                "id": "5981c58d-7e90-42a1-a501-5cd9f75927be",
+                "fileName": "FaceInstanceThumbnail_5981c58d-7e90-42a1-a501-5cd9f75927be.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:01.219",
+                    "adjustedEnd": "0:02:01.253",
+                    "start": "0:02:01.219",
+                    "end": "0:02:01.253"
+                  }
+                ]
+              },
+              {
+                "id": "ab8f9e58-d0a7-4747-9489-aca281c776bb",
+                "fileName": "FaceInstanceThumbnail_ab8f9e58-d0a7-4747-9489-aca281c776bb.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:06.272",
+                    "adjustedEnd": "0:02:06.306",
+                    "start": "0:02:06.272",
+                    "end": "0:02:06.306"
+                  }
+                ]
+              },
+              {
+                "id": "fd3a2cf5-e44b-4ab2-9654-5493a1d613c8",
+                "fileName": "FaceInstanceThumbnail_fd3a2cf5-e44b-4ab2-9654-5493a1d613c8.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:11.325",
+                    "adjustedEnd": "0:02:11.359",
+                    "start": "0:02:11.325",
+                    "end": "0:02:11.359"
+                  }
+                ]
+              },
+              {
+                "id": "0e2fde41-ac6c-4465-b10f-ab7d93af0ac6",
+                "fileName": "FaceInstanceThumbnail_0e2fde41-ac6c-4465-b10f-ab7d93af0ac6.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:13.953",
+                    "adjustedEnd": "0:02:13.987",
+                    "start": "0:02:13.953",
+                    "end": "0:02:13.987"
+                  }
+                ]
+              },
+              {
+                "id": "8bb7d0dd-964f-4508-addc-72fe8b9b943a",
+                "fileName": "FaceInstanceThumbnail_8bb7d0dd-964f-4508-addc-72fe8b9b943a.jpg",
+                "instances": [
+                  {
+                    "adjustedStart": "0:02:16.378",
+                    "adjustedEnd": "0:02:16.412",
+                    "start": "0:02:16.378",
+                    "end": "0:02:16.412"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "thumbnailsIds": [ "12b1e9c6-8fab-4a46-ab57-b0f189dca600", "da9f67f2-344d-4041-ad16-49090f715bfb", "d80cb709-33c3-4cf9-b669-ef9e53072136", "38ad76f6-51b3-4a33-9e0d-2dedf19d468c", "0302d8eb-dbe1-4951-9ad5-23f38580b59e", "9a24d606-89d3-480f-a558-1765dc7c4af2", "9262b7d1-7932-49f8-920a-df4afc19e65c", "a3d95c2e-7a0d-4119-a362-e4f3e150e5aa", "fb553c26-45c6-42ce-b352-1a4f1ca3bad1", "e245d867-1f1b-4640-8343-e40e1f3d0cad", "5196c923-72b2-4c4e-b426-5244f09e9375", "ffcd8dd8-a25a-46a2-8113-8aa18efd7e02", "d97388fd-9e38-424a-8cbb-987e72b7b467", "9c54a557-ece2-4c34-bba6-45499ef43436", "0a0c2f22-162f-4a27-94e5-eca5282fe556", "94aaa83c-d11d-40bd-a417-8a6d4b94341f", "4724aacb-fe52-47ee-ae1c-7adcecc28d59", "db0404e4-624c-4304-b653-34d07775732a", "931d9647-1928-4967-a1fc-e0b5b200370e" ],
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:33.824",
+                "start": "0:00:00",
+                "end": "0:01:33.824"
+              },
+              {
+                "thumbnailsIds": [ "f5a879b1-b973-4d72-ab52-62c73686072e", "bbbddeee-3fc8-4df6-a00b-850ade3787f3", "88a74518-ef9a-4e05-95e6-33037818c728", "26bd93ce-58cb-4b4e-9989-77f5afde26ec", "835e87ef-c251-4f24-b7e5-9606e5e79ef3", "5981c58d-7e90-42a1-a501-5cd9f75927be", "ab8f9e58-d0a7-4747-9489-aca281c776bb", "fd3a2cf5-e44b-4ab2-9654-5493a1d613c8", "0e2fde41-ac6c-4465-b10f-ab7d93af0ac6", "8bb7d0dd-964f-4508-addc-72fe8b9b943a" ],
+                "adjustedStart": "0:01:33.857",
+                "adjustedEnd": "0:02:20.112",
+                "start": "0:01:33.857",
+                "end": "0:02:20.112"
+              }
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "id": 1,
+            "name": "human face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9883,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:05.405",
+                "start": "0:00:00",
+                "end": "0:00:05.405"
+              },
+              {
+                "confidence": 0.9901,
+                "adjustedStart": "0:00:06.483",
+                "adjustedEnd": "0:02:20.102",
+                "start": "0:00:06.483",
+                "end": "0:02:20.102"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "person",
+            "referenceId": "person",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9913,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:02:20.102",
+                "start": "0:00:00",
+                "end": "0:02:20.102"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "indoor",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.937,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:02:20.102",
+                "start": "0:00:00",
+                "end": "0:02:20.102"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "wall",
+            "referenceId": "structure/wall",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9343,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:01:52.124",
+                "start": "0:00:00",
+                "end": "0:01:52.124"
+              },
+              {
+                "confidence": 0.9356,
+                "adjustedStart": "0:01:53.202",
+                "adjustedEnd": "0:02:20.102",
+                "start": "0:01:53.202",
+                "end": "0:02:20.102"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "baby",
+            "referenceId": "person/baby",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9381,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:05.405",
+                "start": "0:00:00",
+                "end": "0:00:05.405"
+              },
+              {
+                "confidence": 0.9528,
+                "adjustedStart": "0:00:49.602",
+                "adjustedEnd": "0:00:51.758",
+                "start": "0:00:49.602",
+                "end": "0:00:51.758"
+              },
+              {
+                "confidence": 0.9042,
+                "adjustedStart": "0:00:54.992",
+                "adjustedEnd": "0:00:56.07",
+                "start": "0:00:54.992",
+                "end": "0:00:56.07"
+              },
+              {
+                "confidence": 0.9416,
+                "adjustedStart": "0:00:59.304",
+                "adjustedEnd": "0:01:01.46",
+                "start": "0:00:59.304",
+                "end": "0:01:01.46"
+              },
+              {
+                "confidence": 0.925,
+                "adjustedStart": "0:01:02.537",
+                "adjustedEnd": "0:01:06.849",
+                "start": "0:01:02.537",
+                "end": "0:01:06.849"
+              },
+              {
+                "confidence": 0.9352,
+                "adjustedStart": "0:01:09.005",
+                "adjustedEnd": "0:01:11.161",
+                "start": "0:01:09.005",
+                "end": "0:01:11.161"
+              },
+              {
+                "confidence": 0.9168,
+                "adjustedStart": "0:01:12.239",
+                "adjustedEnd": "0:01:13.317",
+                "start": "0:01:12.239",
+                "end": "0:01:13.317"
+              },
+              {
+                "confidence": 0.9282,
+                "adjustedStart": "0:01:14.395",
+                "adjustedEnd": "0:01:18.707",
+                "start": "0:01:14.395",
+                "end": "0:01:18.707"
+              },
+              {
+                "confidence": 0.9104,
+                "adjustedStart": "0:01:30.565",
+                "adjustedEnd": "0:01:31.643",
+                "start": "0:01:30.565",
+                "end": "0:01:31.643"
+              },
+              {
+                "confidence": 0.9024,
+                "adjustedStart": "0:02:05.06",
+                "adjustedEnd": "0:02:06.138",
+                "start": "0:02:05.06",
+                "end": "0:02:06.138"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "child",
+            "referenceId": "person/child",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9499,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:03.249",
+                "start": "0:00:00",
+                "end": "0:00:03.249"
+              },
+              {
+                "confidence": 0.9211,
+                "adjustedStart": "0:00:33.432",
+                "adjustedEnd": "0:00:34.51",
+                "start": "0:00:33.432",
+                "end": "0:00:34.51"
+              },
+              {
+                "confidence": 0.9316,
+                "adjustedStart": "0:00:36.666",
+                "adjustedEnd": "0:00:37.744",
+                "start": "0:00:36.666",
+                "end": "0:00:37.744"
+              },
+              {
+                "confidence": 0.9338,
+                "adjustedStart": "0:00:49.602",
+                "adjustedEnd": "0:00:53.914",
+                "start": "0:00:49.602",
+                "end": "0:00:53.914"
+              },
+              {
+                "confidence": 0.9241,
+                "adjustedStart": "0:00:54.992",
+                "adjustedEnd": "0:00:56.07",
+                "start": "0:00:54.992",
+                "end": "0:00:56.07"
+              },
+              {
+                "confidence": 0.9419,
+                "adjustedStart": "0:00:57.148",
+                "adjustedEnd": "0:01:01.46",
+                "start": "0:00:57.148",
+                "end": "0:01:01.46"
+              },
+              {
+                "confidence": 0.9331,
+                "adjustedStart": "0:01:03.615",
+                "adjustedEnd": "0:01:04.693",
+                "start": "0:01:03.615",
+                "end": "0:01:04.693"
+              },
+              {
+                "confidence": 0.9509,
+                "adjustedStart": "0:01:05.771",
+                "adjustedEnd": "0:01:06.849",
+                "start": "0:01:05.771",
+                "end": "0:01:06.849"
+              },
+              {
+                "confidence": 0.9554,
+                "adjustedStart": "0:01:10.083",
+                "adjustedEnd": "0:01:11.161",
+                "start": "0:01:10.083",
+                "end": "0:01:11.161"
+              },
+              {
+                "confidence": 0.9487,
+                "adjustedStart": "0:01:14.395",
+                "adjustedEnd": "0:01:16.551",
+                "start": "0:01:14.395",
+                "end": "0:01:16.551"
+              },
+              {
+                "confidence": 0.9287,
+                "adjustedStart": "0:01:17.629",
+                "adjustedEnd": "0:01:18.707",
+                "start": "0:01:17.629",
+                "end": "0:01:18.707"
+              },
+              {
+                "confidence": 0.9403,
+                "adjustedStart": "0:01:30.565",
+                "adjustedEnd": "0:01:31.643",
+                "start": "0:01:30.565",
+                "end": "0:01:31.643"
+              },
+              {
+                "confidence": 0.9392,
+                "adjustedStart": "0:01:41.344",
+                "adjustedEnd": "0:01:42.422",
+                "start": "0:01:41.344",
+                "end": "0:01:42.422"
+              },
+              {
+                "confidence": 0.9237,
+                "adjustedStart": "0:01:58.592",
+                "adjustedEnd": "0:01:59.67",
+                "start": "0:01:58.592",
+                "end": "0:01:59.67"
+              },
+              {
+                "confidence": 0.933,
+                "adjustedStart": "0:02:01.826",
+                "adjustedEnd": "0:02:02.904",
+                "start": "0:02:01.826",
+                "end": "0:02:02.904"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "mouth",
+            "referenceId": "body part/mouth",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9325,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.093",
+                "start": "0:00:00",
+                "end": "0:00:01.093"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "little",
+            "referenceId": "measure/little",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9189,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.093",
+                "start": "0:00:00",
+                "end": "0:00:01.093"
+              },
+              {
+                "confidence": 0.919,
+                "adjustedStart": "0:00:02.171",
+                "adjustedEnd": "0:00:03.249",
+                "start": "0:00:02.171",
+                "end": "0:00:03.249"
+              },
+              {
+                "confidence": 0.9091,
+                "adjustedStart": "0:00:58.226",
+                "adjustedEnd": "0:00:59.304",
+                "start": "0:00:58.226",
+                "end": "0:00:59.304"
+              },
+              {
+                "confidence": 0.912,
+                "adjustedStart": "0:01:00.382",
+                "adjustedEnd": "0:01:01.46",
+                "start": "0:01:00.382",
+                "end": "0:01:01.46"
+              },
+              {
+                "confidence": 0.9257,
+                "adjustedStart": "0:01:05.771",
+                "adjustedEnd": "0:01:06.849",
+                "start": "0:01:05.771",
+                "end": "0:01:06.849"
+              },
+              {
+                "confidence": 0.9114,
+                "adjustedStart": "0:01:10.083",
+                "adjustedEnd": "0:01:11.161",
+                "start": "0:01:10.083",
+                "end": "0:01:11.161"
+              },
+              {
+                "confidence": 0.9188,
+                "adjustedStart": "0:01:14.395",
+                "adjustedEnd": "0:01:16.551",
+                "start": "0:01:14.395",
+                "end": "0:01:16.551"
+              },
+              {
+                "confidence": 0.9211,
+                "adjustedStart": "0:01:41.344",
+                "adjustedEnd": "0:01:42.422",
+                "start": "0:01:41.344",
+                "end": "0:01:42.422"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "hair",
+            "referenceId": "body covering/hair",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8841,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:06.483",
+                "start": "0:00:00",
+                "end": "0:00:06.483"
+              },
+              {
+                "confidence": 0.8807,
+                "adjustedStart": "0:00:52.836",
+                "adjustedEnd": "0:01:07.927",
+                "start": "0:00:52.836",
+                "end": "0:01:07.927"
+              },
+              {
+                "confidence": 0.8773,
+                "adjustedStart": "0:01:09.005",
+                "adjustedEnd": "0:01:15.473",
+                "start": "0:01:09.005",
+                "end": "0:01:15.473"
+              },
+              {
+                "confidence": 0.8601,
+                "adjustedStart": "0:01:16.551",
+                "adjustedEnd": "0:01:17.629",
+                "start": "0:01:16.551",
+                "end": "0:01:17.629"
+              },
+              {
+                "confidence": 0.8849,
+                "adjustedStart": "0:01:26.253",
+                "adjustedEnd": "0:01:29.487",
+                "start": "0:01:26.253",
+                "end": "0:01:29.487"
+              },
+              {
+                "confidence": 0.872,
+                "adjustedStart": "0:01:30.565",
+                "adjustedEnd": "0:01:31.643",
+                "start": "0:01:30.565",
+                "end": "0:01:31.643"
+              },
+              {
+                "confidence": 0.8871,
+                "adjustedStart": "0:01:32.721",
+                "adjustedEnd": "0:01:38.11",
+                "start": "0:01:32.721",
+                "end": "0:01:38.11"
+              },
+              {
+                "confidence": 0.886,
+                "adjustedStart": "0:01:39.188",
+                "adjustedEnd": "0:01:41.344",
+                "start": "0:01:39.188",
+                "end": "0:01:41.344"
+              },
+              {
+                "confidence": 0.888,
+                "adjustedStart": "0:02:06.137",
+                "adjustedEnd": "0:02:09.371",
+                "start": "0:02:06.137",
+                "end": "0:02:09.371"
+              },
+              {
+                "confidence": 0.9054,
+                "adjustedStart": "0:02:10.449",
+                "adjustedEnd": "0:02:12.605",
+                "start": "0:02:10.449",
+                "end": "0:02:12.605"
+              },
+              {
+                "confidence": 0.9061,
+                "adjustedStart": "0:02:13.683",
+                "adjustedEnd": "0:02:17.995",
+                "start": "0:02:13.683",
+                "end": "0:02:17.995"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "girl",
+            "referenceId": "person/child/girl",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8805,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:01.093",
+                "start": "0:00:00",
+                "end": "0:00:01.093"
+              },
+              {
+                "confidence": 0.9127,
+                "adjustedStart": "0:00:02.171",
+                "adjustedEnd": "0:00:04.327",
+                "start": "0:00:02.171",
+                "end": "0:00:04.327"
+              },
+              {
+                "confidence": 0.8841,
+                "adjustedStart": "0:00:07.561",
+                "adjustedEnd": "0:00:09.717",
+                "start": "0:00:07.561",
+                "end": "0:00:09.717"
+              },
+              {
+                "confidence": 0.8671,
+                "adjustedStart": "0:00:10.795",
+                "adjustedEnd": "0:00:12.951",
+                "start": "0:00:10.795",
+                "end": "0:00:12.951"
+              },
+              {
+                "confidence": 0.8575,
+                "adjustedStart": "0:00:16.185",
+                "adjustedEnd": "0:00:19.419",
+                "start": "0:00:16.185",
+                "end": "0:00:19.419"
+              },
+              {
+                "confidence": 0.87,
+                "adjustedStart": "0:00:20.497",
+                "adjustedEnd": "0:00:21.575",
+                "start": "0:00:20.497",
+                "end": "0:00:21.575"
+              },
+              {
+                "confidence": 0.8694,
+                "adjustedStart": "0:00:22.653",
+                "adjustedEnd": "0:00:23.731",
+                "start": "0:00:22.653",
+                "end": "0:00:23.731"
+              },
+              {
+                "confidence": 0.858,
+                "adjustedStart": "0:00:24.809",
+                "adjustedEnd": "0:00:26.965",
+                "start": "0:00:24.809",
+                "end": "0:00:26.965"
+              },
+              {
+                "confidence": 0.854,
+                "adjustedStart": "0:00:32.354",
+                "adjustedEnd": "0:00:33.432",
+                "start": "0:00:32.354",
+                "end": "0:00:33.432"
+              },
+              {
+                "confidence": 0.8849,
+                "adjustedStart": "0:00:34.51",
+                "adjustedEnd": "0:00:35.588",
+                "start": "0:00:34.51",
+                "end": "0:00:35.588"
+              },
+              {
+                "confidence": 0.8656,
+                "adjustedStart": "0:00:44.212",
+                "adjustedEnd": "0:00:45.29",
+                "start": "0:00:44.212",
+                "end": "0:00:45.29"
+              },
+              {
+                "confidence": 0.8719,
+                "adjustedStart": "0:01:05.771",
+                "adjustedEnd": "0:01:06.849",
+                "start": "0:01:05.771",
+                "end": "0:01:06.849"
+              },
+              {
+                "confidence": 0.9102,
+                "adjustedStart": "0:01:11.161",
+                "adjustedEnd": "0:01:12.239",
+                "start": "0:01:11.161",
+                "end": "0:01:12.239"
+              },
+              {
+                "confidence": 0.8735,
+                "adjustedStart": "0:01:13.317",
+                "adjustedEnd": "0:01:15.473",
+                "start": "0:01:13.317",
+                "end": "0:01:15.473"
+              },
+              {
+                "confidence": 0.8816,
+                "adjustedStart": "0:01:16.551",
+                "adjustedEnd": "0:01:18.707",
+                "start": "0:01:16.551",
+                "end": "0:01:18.707"
+              },
+              {
+                "confidence": 0.8664,
+                "adjustedStart": "0:01:23.019",
+                "adjustedEnd": "0:01:24.097",
+                "start": "0:01:23.019",
+                "end": "0:01:24.097"
+              },
+              {
+                "confidence": 0.9061,
+                "adjustedStart": "0:01:26.253",
+                "adjustedEnd": "0:01:27.331",
+                "start": "0:01:26.253",
+                "end": "0:01:27.331"
+              },
+              {
+                "confidence": 0.86,
+                "adjustedStart": "0:01:28.409",
+                "adjustedEnd": "0:01:29.487",
+                "start": "0:01:28.409",
+                "end": "0:01:29.487"
+              },
+              {
+                "confidence": 0.8745,
+                "adjustedStart": "0:01:30.565",
+                "adjustedEnd": "0:01:31.643",
+                "start": "0:01:30.565",
+                "end": "0:01:31.643"
+              },
+              {
+                "confidence": 0.8731,
+                "adjustedStart": "0:01:32.721",
+                "adjustedEnd": "0:01:33.799",
+                "start": "0:01:32.721",
+                "end": "0:01:33.799"
+              },
+              {
+                "confidence": 0.8611,
+                "adjustedStart": "0:01:52.124",
+                "adjustedEnd": "0:01:54.28",
+                "start": "0:01:52.124",
+                "end": "0:01:54.28"
+              },
+              {
+                "confidence": 0.8866,
+                "adjustedStart": "0:02:06.137",
+                "adjustedEnd": "0:02:07.215",
+                "start": "0:02:06.137",
+                "end": "0:02:07.215"
+              },
+              {
+                "confidence": 0.8982,
+                "adjustedStart": "0:02:08.293",
+                "adjustedEnd": "0:02:09.371",
+                "start": "0:02:08.293",
+                "end": "0:02:09.371"
+              },
+              {
+                "confidence": 0.8823,
+                "adjustedStart": "0:02:15.839",
+                "adjustedEnd": "0:02:16.917",
+                "start": "0:02:15.839",
+                "end": "0:02:16.917"
+              },
+              {
+                "confidence": 0.8628,
+                "adjustedStart": "0:02:17.995",
+                "adjustedEnd": "0:02:19.073",
+                "start": "0:02:17.995",
+                "end": "0:02:19.073"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "toddler",
+            "referenceId": "person/toddler",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9318,
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:05.405",
+                "start": "0:00:00",
+                "end": "0:00:05.405"
+              },
+              {
+                "confidence": 0.9061,
+                "adjustedStart": "0:00:07.561",
+                "adjustedEnd": "0:00:08.639",
+                "start": "0:00:07.561",
+                "end": "0:00:08.639"
+              },
+              {
+                "confidence": 0.8736,
+                "adjustedStart": "0:00:48.524",
+                "adjustedEnd": "0:00:51.758",
+                "start": "0:00:48.524",
+                "end": "0:00:51.758"
+              },
+              {
+                "confidence": 0.9244,
+                "adjustedStart": "0:00:54.992",
+                "adjustedEnd": "0:00:56.07",
+                "start": "0:00:54.992",
+                "end": "0:00:56.07"
+              },
+              {
+                "confidence": 0.9023,
+                "adjustedStart": "0:00:58.226",
+                "adjustedEnd": "0:01:01.46",
+                "start": "0:00:58.226",
+                "end": "0:01:01.46"
+              },
+              {
+                "confidence": 0.901,
+                "adjustedStart": "0:01:02.537",
+                "adjustedEnd": "0:01:06.849",
+                "start": "0:01:02.537",
+                "end": "0:01:06.849"
+              },
+              {
+                "confidence": 0.9247,
+                "adjustedStart": "0:01:09.005",
+                "adjustedEnd": "0:01:13.317",
+                "start": "0:01:09.005",
+                "end": "0:01:13.317"
+              },
+              {
+                "confidence": 0.8816,
+                "adjustedStart": "0:01:14.395",
+                "adjustedEnd": "0:01:17.629",
+                "start": "0:01:14.395",
+                "end": "0:01:17.629"
+              },
+              {
+                "confidence": 0.9411,
+                "adjustedStart": "0:01:30.565",
+                "adjustedEnd": "0:01:31.643",
+                "start": "0:01:30.565",
+                "end": "0:01:31.643"
+              },
+              {
+                "confidence": 0.9059,
+                "adjustedStart": "0:01:32.721",
+                "adjustedEnd": "0:01:33.799",
+                "start": "0:01:32.721",
+                "end": "0:01:33.799"
+              },
+              {
+                "confidence": 0.9257,
+                "adjustedStart": "0:01:58.592",
+                "adjustedEnd": "0:01:59.67",
+                "start": "0:01:58.592",
+                "end": "0:01:59.67"
+              },
+              {
+                "confidence": 0.9096,
+                "adjustedStart": "0:02:01.826",
+                "adjustedEnd": "0:02:02.904",
+                "start": "0:02:01.826",
+                "end": "0:02:02.904"
+              },
+              {
+                "confidence": 0.8554,
+                "adjustedStart": "0:02:05.06",
+                "adjustedEnd": "0:02:06.138",
+                "start": "0:02:05.06",
+                "end": "0:02:06.138"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "face",
+            "referenceId": "body part/face",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9859,
+                "adjustedStart": "0:00:01.093",
+                "adjustedEnd": "0:00:02.171",
+                "start": "0:00:01.093",
+                "end": "0:00:02.171"
+              },
+              {
+                "confidence": 0.986,
+                "adjustedStart": "0:00:05.405",
+                "adjustedEnd": "0:00:06.483",
+                "start": "0:00:05.405",
+                "end": "0:00:06.483"
+              },
+              {
+                "confidence": 0.9851,
+                "adjustedStart": "0:00:38.822",
+                "adjustedEnd": "0:00:39.9",
+                "start": "0:00:38.822",
+                "end": "0:00:39.9"
+              },
+              {
+                "confidence": 0.9879,
+                "adjustedStart": "0:00:40.978",
+                "adjustedEnd": "0:00:42.056",
+                "start": "0:00:40.978",
+                "end": "0:00:42.056"
+              },
+              {
+                "confidence": 0.9904,
+                "adjustedStart": "0:00:46.368",
+                "adjustedEnd": "0:00:47.446",
+                "start": "0:00:46.368",
+                "end": "0:00:47.446"
+              },
+              {
+                "confidence": 0.9853,
+                "adjustedStart": "0:00:52.836",
+                "adjustedEnd": "0:00:53.914",
+                "start": "0:00:52.836",
+                "end": "0:00:53.914"
+              },
+              {
+                "confidence": 0.9878,
+                "adjustedStart": "0:00:56.07",
+                "adjustedEnd": "0:00:57.148",
+                "start": "0:00:56.07",
+                "end": "0:00:57.148"
+              },
+              {
+                "confidence": 0.9873,
+                "adjustedStart": "0:01:03.615",
+                "adjustedEnd": "0:01:04.693",
+                "start": "0:01:03.615",
+                "end": "0:01:04.693"
+              },
+              {
+                "confidence": 0.9902,
+                "adjustedStart": "0:01:09.005",
+                "adjustedEnd": "0:01:10.083",
+                "start": "0:01:09.005",
+                "end": "0:01:10.083"
+              },
+              {
+                "confidence": 0.9856,
+                "adjustedStart": "0:01:14.395",
+                "adjustedEnd": "0:01:15.473",
+                "start": "0:01:14.395",
+                "end": "0:01:15.473"
+              },
+              {
+                "confidence": 0.9872,
+                "adjustedStart": "0:01:27.331",
+                "adjustedEnd": "0:01:28.409",
+                "start": "0:01:27.331",
+                "end": "0:01:28.409"
+              },
+              {
+                "confidence": 0.9864,
+                "adjustedStart": "0:01:34.876",
+                "adjustedEnd": "0:01:35.954",
+                "start": "0:01:34.876",
+                "end": "0:01:35.954"
+              },
+              {
+                "confidence": 0.9855,
+                "adjustedStart": "0:02:16.917",
+                "adjustedEnd": "0:02:17.995",
+                "start": "0:02:16.917",
+                "end": "0:02:17.995"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "eating",
+            "referenceId": "process/eating",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9343,
+                "adjustedStart": "0:00:01.093",
+                "adjustedEnd": "0:00:03.249",
+                "start": "0:00:01.093",
+                "end": "0:00:03.249"
+              },
+              {
+                "confidence": 0.9146,
+                "adjustedStart": "0:00:23.731",
+                "adjustedEnd": "0:00:24.809",
+                "start": "0:00:23.731",
+                "end": "0:00:24.809"
+              },
+              {
+                "confidence": 0.9162,
+                "adjustedStart": "0:01:31.643",
+                "adjustedEnd": "0:01:32.721",
+                "start": "0:01:31.643",
+                "end": "0:01:32.721"
+              },
+              {
+                "confidence": 0.949,
+                "adjustedStart": "0:01:38.11",
+                "adjustedEnd": "0:01:39.188",
+                "start": "0:01:38.11",
+                "end": "0:01:39.188"
+              },
+              {
+                "confidence": 0.9115,
+                "adjustedStart": "0:01:58.592",
+                "adjustedEnd": "0:01:59.67",
+                "start": "0:01:58.592",
+                "end": "0:01:59.67"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "name": "clothing",
+            "referenceId": "consumer goods/clothing",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9303,
+                "adjustedStart": "0:00:01.093",
+                "adjustedEnd": "0:00:04.327",
+                "start": "0:00:01.093",
+                "end": "0:00:04.327"
+              },
+              {
+                "confidence": 0.9514,
+                "adjustedStart": "0:00:06.483",
+                "adjustedEnd": "0:00:49.602",
+                "start": "0:00:06.483",
+                "end": "0:00:49.602"
+              },
+              {
+                "confidence": 0.9429,
+                "adjustedStart": "0:00:51.758",
+                "adjustedEnd": "0:01:02.537",
+                "start": "0:00:51.758",
+                "end": "0:01:02.537"
+              },
+              {
+                "confidence": 0.9469,
+                "adjustedStart": "0:01:03.615",
+                "adjustedEnd": "0:01:18.707",
+                "start": "0:01:03.615",
+                "end": "0:01:18.707"
+              },
+              {
+                "confidence": 0.9061,
+                "adjustedStart": "0:01:23.019",
+                "adjustedEnd": "0:01:25.175",
+                "start": "0:01:23.019",
+                "end": "0:01:25.175"
+              },
+              {
+                "confidence": 0.947,
+                "adjustedStart": "0:01:26.253",
+                "adjustedEnd": "0:01:31.643",
+                "start": "0:01:26.253",
+                "end": "0:01:31.643"
+              },
+              {
+                "confidence": 0.9241,
+                "adjustedStart": "0:01:37.032",
+                "adjustedEnd": "0:01:38.11",
+                "start": "0:01:37.032",
+                "end": "0:01:38.11"
+              },
+              {
+                "confidence": 0.9525,
+                "adjustedStart": "0:01:39.188",
+                "adjustedEnd": "0:02:05.06",
+                "start": "0:01:39.188",
+                "end": "0:02:05.06"
+              },
+              {
+                "confidence": 0.9344,
+                "adjustedStart": "0:02:06.137",
+                "adjustedEnd": "0:02:17.995",
+                "start": "0:02:06.137",
+                "end": "0:02:17.995"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "young",
+            "referenceId": "young",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8916,
+                "adjustedStart": "0:00:03.249",
+                "adjustedEnd": "0:00:04.327",
+                "start": "0:00:03.249",
+                "end": "0:00:04.327"
+              },
+              {
+                "confidence": 0.9068,
+                "adjustedStart": "0:00:07.561",
+                "adjustedEnd": "0:00:09.717",
+                "start": "0:00:07.561",
+                "end": "0:00:09.717"
+              },
+              {
+                "confidence": 0.9133,
+                "adjustedStart": "0:00:23.731",
+                "adjustedEnd": "0:00:26.965",
+                "start": "0:00:23.731",
+                "end": "0:00:26.965"
+              },
+              {
+                "confidence": 0.9037,
+                "adjustedStart": "0:00:31.276",
+                "adjustedEnd": "0:00:38.822",
+                "start": "0:00:31.276",
+                "end": "0:00:38.822"
+              },
+              {
+                "confidence": 0.9009,
+                "adjustedStart": "0:00:39.9",
+                "adjustedEnd": "0:00:42.056",
+                "start": "0:00:39.9",
+                "end": "0:00:42.056"
+              },
+              {
+                "confidence": 0.8937,
+                "adjustedStart": "0:00:47.446",
+                "adjustedEnd": "0:00:49.602",
+                "start": "0:00:47.446",
+                "end": "0:00:49.602"
+              },
+              {
+                "confidence": 0.9081,
+                "adjustedStart": "0:00:50.68",
+                "adjustedEnd": "0:01:00.382",
+                "start": "0:00:50.68",
+                "end": "0:01:00.382"
+              },
+              {
+                "confidence": 0.895,
+                "adjustedStart": "0:01:03.615",
+                "adjustedEnd": "0:01:04.693",
+                "start": "0:01:03.615",
+                "end": "0:01:04.693"
+              },
+              {
+                "confidence": 0.9056,
+                "adjustedStart": "0:01:05.771",
+                "adjustedEnd": "0:01:06.849",
+                "start": "0:01:05.771",
+                "end": "0:01:06.849"
+              },
+              {
+                "confidence": 0.9058,
+                "adjustedStart": "0:01:10.083",
+                "adjustedEnd": "0:01:11.161",
+                "start": "0:01:10.083",
+                "end": "0:01:11.161"
+              },
+              {
+                "confidence": 0.8919,
+                "adjustedStart": "0:01:13.317",
+                "adjustedEnd": "0:01:14.395",
+                "start": "0:01:13.317",
+                "end": "0:01:14.395"
+              },
+              {
+                "confidence": 0.9221,
+                "adjustedStart": "0:01:15.473",
+                "adjustedEnd": "0:01:16.551",
+                "start": "0:01:15.473",
+                "end": "0:01:16.551"
+              },
+              {
+                "confidence": 0.923,
+                "adjustedStart": "0:01:28.409",
+                "adjustedEnd": "0:01:29.487",
+                "start": "0:01:28.409",
+                "end": "0:01:29.487"
+              },
+              {
+                "confidence": 0.9043,
+                "adjustedStart": "0:01:30.565",
+                "adjustedEnd": "0:01:31.643",
+                "start": "0:01:30.565",
+                "end": "0:01:31.643"
+              },
+              {
+                "confidence": 0.8966,
+                "adjustedStart": "0:01:32.721",
+                "adjustedEnd": "0:01:33.799",
+                "start": "0:01:32.721",
+                "end": "0:01:33.799"
+              },
+              {
+                "confidence": 0.9232,
+                "adjustedStart": "0:01:40.266",
+                "adjustedEnd": "0:01:43.5",
+                "start": "0:01:40.266",
+                "end": "0:01:43.5"
+              },
+              {
+                "confidence": 0.9159,
+                "adjustedStart": "0:01:44.578",
+                "adjustedEnd": "0:01:45.656",
+                "start": "0:01:44.578",
+                "end": "0:01:45.656"
+              },
+              {
+                "confidence": 0.8952,
+                "adjustedStart": "0:01:47.812",
+                "adjustedEnd": "0:01:48.89",
+                "start": "0:01:47.812",
+                "end": "0:01:48.89"
+              },
+              {
+                "confidence": 0.8981,
+                "adjustedStart": "0:01:49.968",
+                "adjustedEnd": "0:01:53.202",
+                "start": "0:01:49.968",
+                "end": "0:01:53.202"
+              },
+              {
+                "confidence": 0.911,
+                "adjustedStart": "0:01:54.28",
+                "adjustedEnd": "0:01:56.436",
+                "start": "0:01:54.28",
+                "end": "0:01:56.436"
+              },
+              {
+                "confidence": 0.916,
+                "adjustedStart": "0:01:58.592",
+                "adjustedEnd": "0:02:02.904",
+                "start": "0:01:58.592",
+                "end": "0:02:02.904"
+              },
+              {
+                "confidence": 0.9178,
+                "adjustedStart": "0:02:06.137",
+                "adjustedEnd": "0:02:07.215",
+                "start": "0:02:06.137",
+                "end": "0:02:07.215"
+              },
+              {
+                "confidence": 0.9318,
+                "adjustedStart": "0:02:10.449",
+                "adjustedEnd": "0:02:13.683",
+                "start": "0:02:10.449",
+                "end": "0:02:13.683"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "name": "boy",
+            "referenceId": "person/male child/child/boy",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9631,
+                "adjustedStart": "0:00:04.327",
+                "adjustedEnd": "0:00:05.405",
+                "start": "0:00:04.327",
+                "end": "0:00:05.405"
+              },
+              {
+                "confidence": 0.935,
+                "adjustedStart": "0:00:08.639",
+                "adjustedEnd": "0:00:09.717",
+                "start": "0:00:08.639",
+                "end": "0:00:09.717"
+              },
+              {
+                "confidence": 0.9294,
+                "adjustedStart": "0:00:23.731",
+                "adjustedEnd": "0:00:25.887",
+                "start": "0:00:23.731",
+                "end": "0:00:25.887"
+              },
+              {
+                "confidence": 0.9148,
+                "adjustedStart": "0:00:26.965",
+                "adjustedEnd": "0:00:28.043",
+                "start": "0:00:26.965",
+                "end": "0:00:28.043"
+              },
+              {
+                "confidence": 0.924,
+                "adjustedStart": "0:00:31.276",
+                "adjustedEnd": "0:00:34.51",
+                "start": "0:00:31.276",
+                "end": "0:00:34.51"
+              },
+              {
+                "confidence": 0.9393,
+                "adjustedStart": "0:00:35.588",
+                "adjustedEnd": "0:00:43.134",
+                "start": "0:00:35.588",
+                "end": "0:00:43.134"
+              },
+              {
+                "confidence": 0.9395,
+                "adjustedStart": "0:00:47.446",
+                "adjustedEnd": "0:01:07.927",
+                "start": "0:00:47.446",
+                "end": "0:01:07.927"
+              },
+              {
+                "confidence": 0.9393,
+                "adjustedStart": "0:01:09.005",
+                "adjustedEnd": "0:01:11.161",
+                "start": "0:01:09.005",
+                "end": "0:01:11.161"
+              },
+              {
+                "confidence": 0.935,
+                "adjustedStart": "0:01:12.239",
+                "adjustedEnd": "0:01:17.629",
+                "start": "0:01:12.239",
+                "end": "0:01:17.629"
+              },
+              {
+                "confidence": 0.9022,
+                "adjustedStart": "0:01:30.565",
+                "adjustedEnd": "0:01:31.643",
+                "start": "0:01:30.565",
+                "end": "0:01:31.643"
+              },
+              {
+                "confidence": 0.9159,
+                "adjustedStart": "0:01:38.11",
+                "adjustedEnd": "0:01:40.266",
+                "start": "0:01:38.11",
+                "end": "0:01:40.266"
+              },
+              {
+                "confidence": 0.9322,
+                "adjustedStart": "0:01:41.344",
+                "adjustedEnd": "0:01:44.578",
+                "start": "0:01:41.344",
+                "end": "0:01:44.578"
+              },
+              {
+                "confidence": 0.9114,
+                "adjustedStart": "0:01:49.968",
+                "adjustedEnd": "0:01:51.046",
+                "start": "0:01:49.968",
+                "end": "0:01:51.046"
+              },
+              {
+                "confidence": 0.933,
+                "adjustedStart": "0:01:54.28",
+                "adjustedEnd": "0:01:56.436",
+                "start": "0:01:54.28",
+                "end": "0:01:56.436"
+              },
+              {
+                "confidence": 0.9229,
+                "adjustedStart": "0:01:58.592",
+                "adjustedEnd": "0:02:03.982",
+                "start": "0:01:58.592",
+                "end": "0:02:03.982"
+              },
+              {
+                "confidence": 0.9241,
+                "adjustedStart": "0:02:05.06",
+                "adjustedEnd": "0:02:06.138",
+                "start": "0:02:05.06",
+                "end": "0:02:06.138"
+              },
+              {
+                "confidence": 0.9165,
+                "adjustedStart": "0:02:16.917",
+                "adjustedEnd": "0:02:17.995",
+                "start": "0:02:16.917",
+                "end": "0:02:17.995"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "cheek",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9329,
+                "adjustedStart": "0:00:04.327",
+                "adjustedEnd": "0:00:05.405",
+                "start": "0:00:04.327",
+                "end": "0:00:05.405"
+              },
+              {
+                "confidence": 0.9312,
+                "adjustedStart": "0:00:06.483",
+                "adjustedEnd": "0:00:10.795",
+                "start": "0:00:06.483",
+                "end": "0:00:10.795"
+              },
+              {
+                "confidence": 0.9197,
+                "adjustedStart": "0:00:11.873",
+                "adjustedEnd": "0:00:12.951",
+                "start": "0:00:11.873",
+                "end": "0:00:12.951"
+              },
+              {
+                "confidence": 0.9009,
+                "adjustedStart": "0:00:16.185",
+                "adjustedEnd": "0:00:17.263",
+                "start": "0:00:16.185",
+                "end": "0:00:17.263"
+              },
+              {
+                "confidence": 0.9241,
+                "adjustedStart": "0:00:19.419",
+                "adjustedEnd": "0:00:42.056",
+                "start": "0:00:19.419",
+                "end": "0:00:42.056"
+              },
+              {
+                "confidence": 0.9424,
+                "adjustedStart": "0:00:44.212",
+                "adjustedEnd": "0:01:19.785",
+                "start": "0:00:44.212",
+                "end": "0:01:19.785"
+              },
+              {
+                "confidence": 0.9094,
+                "adjustedStart": "0:01:24.097",
+                "adjustedEnd": "0:01:26.253",
+                "start": "0:01:24.097",
+                "end": "0:01:26.253"
+              },
+              {
+                "confidence": 0.9243,
+                "adjustedStart": "0:01:27.331",
+                "adjustedEnd": "0:01:40.266",
+                "start": "0:01:27.331",
+                "end": "0:01:40.266"
+              },
+              {
+                "confidence": 0.9136,
+                "adjustedStart": "0:01:43.5",
+                "adjustedEnd": "0:01:45.656",
+                "start": "0:01:43.5",
+                "end": "0:01:45.656"
+              },
+              {
+                "confidence": 0.919,
+                "adjustedStart": "0:01:48.89",
+                "adjustedEnd": "0:02:10.449",
+                "start": "0:01:48.89",
+                "end": "0:02:10.449"
+              },
+              {
+                "confidence": 0.9326,
+                "adjustedStart": "0:02:11.527",
+                "adjustedEnd": "0:02:17.995",
+                "start": "0:02:11.527",
+                "end": "0:02:17.995"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "portrait",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9017,
+                "adjustedStart": "0:00:04.327",
+                "adjustedEnd": "0:00:05.405",
+                "start": "0:00:04.327",
+                "end": "0:00:05.405"
+              },
+              {
+                "confidence": 0.9395,
+                "adjustedStart": "0:00:06.483",
+                "adjustedEnd": "0:00:36.666",
+                "start": "0:00:06.483",
+                "end": "0:00:36.666"
+              },
+              {
+                "confidence": 0.9326,
+                "adjustedStart": "0:00:37.744",
+                "adjustedEnd": "0:00:49.602",
+                "start": "0:00:37.744",
+                "end": "0:00:49.602"
+              },
+              {
+                "confidence": 0.9338,
+                "adjustedStart": "0:00:51.758",
+                "adjustedEnd": "0:01:00.382",
+                "start": "0:00:51.758",
+                "end": "0:01:00.382"
+              },
+              {
+                "confidence": 0.9096,
+                "adjustedStart": "0:01:01.459",
+                "adjustedEnd": "0:01:03.615",
+                "start": "0:01:01.459",
+                "end": "0:01:03.615"
+              },
+              {
+                "confidence": 0.9208,
+                "adjustedStart": "0:01:06.849",
+                "adjustedEnd": "0:01:09.005",
+                "start": "0:01:06.849",
+                "end": "0:01:09.005"
+              },
+              {
+                "confidence": 0.9305,
+                "adjustedStart": "0:01:13.317",
+                "adjustedEnd": "0:01:14.395",
+                "start": "0:01:13.317",
+                "end": "0:01:14.395"
+              },
+              {
+                "confidence": 0.9098,
+                "adjustedStart": "0:01:16.551",
+                "adjustedEnd": "0:01:19.785",
+                "start": "0:01:16.551",
+                "end": "0:01:19.785"
+              },
+              {
+                "confidence": 0.9095,
+                "adjustedStart": "0:01:21.941",
+                "adjustedEnd": "0:01:23.019",
+                "start": "0:01:21.941",
+                "end": "0:01:23.019"
+              },
+              {
+                "confidence": 0.9118,
+                "adjustedStart": "0:01:24.097",
+                "adjustedEnd": "0:01:26.253",
+                "start": "0:01:24.097",
+                "end": "0:01:26.253"
+              },
+              {
+                "confidence": 0.9185,
+                "adjustedStart": "0:01:27.331",
+                "adjustedEnd": "0:01:31.643",
+                "start": "0:01:27.331",
+                "end": "0:01:31.643"
+              },
+              {
+                "confidence": 0.9333,
+                "adjustedStart": "0:01:33.798",
+                "adjustedEnd": "0:01:41.344",
+                "start": "0:01:33.798",
+                "end": "0:01:41.344"
+              },
+              {
+                "confidence": 0.9394,
+                "adjustedStart": "0:01:43.5",
+                "adjustedEnd": "0:01:45.656",
+                "start": "0:01:43.5",
+                "end": "0:01:45.656"
+              },
+              {
+                "confidence": 0.9288,
+                "adjustedStart": "0:01:48.89",
+                "adjustedEnd": "0:01:58.592",
+                "start": "0:01:48.89",
+                "end": "0:01:58.592"
+              },
+              {
+                "confidence": 0.9198,
+                "adjustedStart": "0:01:59.67",
+                "adjustedEnd": "0:02:05.06",
+                "start": "0:01:59.67",
+                "end": "0:02:05.06"
+              },
+              {
+                "confidence": 0.9294,
+                "adjustedStart": "0:02:06.137",
+                "adjustedEnd": "0:02:10.449",
+                "start": "0:02:06.137",
+                "end": "0:02:10.449"
+              },
+              {
+                "confidence": 0.9565,
+                "adjustedStart": "0:02:11.527",
+                "adjustedEnd": "0:02:17.995",
+                "start": "0:02:11.527",
+                "end": "0:02:17.995"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "haircut",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9947,
+                "adjustedStart": "0:00:05.405",
+                "adjustedEnd": "0:00:06.483",
+                "start": "0:00:05.405",
+                "end": "0:00:06.483"
+              },
+              {
+                "confidence": 0.9896,
+                "adjustedStart": "0:00:51.758",
+                "adjustedEnd": "0:00:52.836",
+                "start": "0:00:51.758",
+                "end": "0:00:52.836"
+              },
+              {
+                "confidence": 0.9904,
+                "adjustedStart": "0:00:57.148",
+                "adjustedEnd": "0:00:58.226",
+                "start": "0:00:57.148",
+                "end": "0:00:58.226"
+              },
+              {
+                "confidence": 0.9864,
+                "adjustedStart": "0:01:07.927",
+                "adjustedEnd": "0:01:09.005",
+                "start": "0:01:07.927",
+                "end": "0:01:09.005"
+              },
+              {
+                "confidence": 0.9888,
+                "adjustedStart": "0:02:07.215",
+                "adjustedEnd": "0:02:08.293",
+                "start": "0:02:07.215",
+                "end": "0:02:08.293"
+              },
+              {
+                "confidence": 0.9881,
+                "adjustedStart": "0:02:14.761",
+                "adjustedEnd": "0:02:15.839",
+                "start": "0:02:14.761",
+                "end": "0:02:15.839"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "name": "eyebrow",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9155,
+                "adjustedStart": "0:00:06.483",
+                "adjustedEnd": "0:00:12.951",
+                "start": "0:00:06.483",
+                "end": "0:00:12.951"
+              },
+              {
+                "confidence": 0.9032,
+                "adjustedStart": "0:00:16.185",
+                "adjustedEnd": "0:00:17.263",
+                "start": "0:00:16.185",
+                "end": "0:00:17.263"
+              },
+              {
+                "confidence": 0.9172,
+                "adjustedStart": "0:00:18.341",
+                "adjustedEnd": "0:00:23.731",
+                "start": "0:00:18.341",
+                "end": "0:00:23.731"
+              },
+              {
+                "confidence": 0.917,
+                "adjustedStart": "0:00:24.809",
+                "adjustedEnd": "0:00:35.588",
+                "start": "0:00:24.809",
+                "end": "0:00:35.588"
+              },
+              {
+                "confidence": 0.9232,
+                "adjustedStart": "0:00:37.744",
+                "adjustedEnd": "0:00:39.9",
+                "start": "0:00:37.744",
+                "end": "0:00:39.9"
+              },
+              {
+                "confidence": 0.9232,
+                "adjustedStart": "0:00:45.29",
+                "adjustedEnd": "0:01:10.083",
+                "start": "0:00:45.29",
+                "end": "0:01:10.083"
+              },
+              {
+                "confidence": 0.9247,
+                "adjustedStart": "0:01:12.239",
+                "adjustedEnd": "0:01:14.395",
+                "start": "0:01:12.239",
+                "end": "0:01:14.395"
+              },
+              {
+                "confidence": 0.9117,
+                "adjustedStart": "0:01:15.473",
+                "adjustedEnd": "0:01:18.707",
+                "start": "0:01:15.473",
+                "end": "0:01:18.707"
+              },
+              {
+                "confidence": 0.9068,
+                "adjustedStart": "0:01:24.097",
+                "adjustedEnd": "0:01:28.409",
+                "start": "0:01:24.097",
+                "end": "0:01:28.409"
+              },
+              {
+                "confidence": 0.9133,
+                "adjustedStart": "0:01:33.798",
+                "adjustedEnd": "0:01:34.876",
+                "start": "0:01:33.798",
+                "end": "0:01:34.876"
+              },
+              {
+                "confidence": 0.9297,
+                "adjustedStart": "0:01:37.032",
+                "adjustedEnd": "0:01:40.266",
+                "start": "0:01:37.032",
+                "end": "0:01:40.266"
+              },
+              {
+                "confidence": 0.9032,
+                "adjustedStart": "0:01:44.578",
+                "adjustedEnd": "0:01:45.656",
+                "start": "0:01:44.578",
+                "end": "0:01:45.656"
+              },
+              {
+                "confidence": 0.9316,
+                "adjustedStart": "0:01:48.89",
+                "adjustedEnd": "0:01:49.968",
+                "start": "0:01:48.89",
+                "end": "0:01:49.968"
+              },
+              {
+                "confidence": 0.9071,
+                "adjustedStart": "0:01:53.202",
+                "adjustedEnd": "0:01:55.358",
+                "start": "0:01:53.202",
+                "end": "0:01:55.358"
+              },
+              {
+                "confidence": 0.9036,
+                "adjustedStart": "0:01:57.514",
+                "adjustedEnd": "0:01:58.592",
+                "start": "0:01:57.514",
+                "end": "0:01:58.592"
+              },
+              {
+                "confidence": 0.9053,
+                "adjustedStart": "0:02:03.982",
+                "adjustedEnd": "0:02:05.06",
+                "start": "0:02:03.982",
+                "end": "0:02:05.06"
+              },
+              {
+                "confidence": 0.9126,
+                "adjustedStart": "0:02:07.215",
+                "adjustedEnd": "0:02:10.449",
+                "start": "0:02:07.215",
+                "end": "0:02:10.449"
+              },
+              {
+                "confidence": 0.9254,
+                "adjustedStart": "0:02:11.527",
+                "adjustedEnd": "0:02:17.995",
+                "start": "0:02:11.527",
+                "end": "0:02:17.995"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "name": "chin",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.909,
+                "adjustedStart": "0:00:06.483",
+                "adjustedEnd": "0:00:14.029",
+                "start": "0:00:06.483",
+                "end": "0:00:14.029"
+              },
+              {
+                "confidence": 0.9036,
+                "adjustedStart": "0:00:15.107",
+                "adjustedEnd": "0:00:17.263",
+                "start": "0:00:15.107",
+                "end": "0:00:17.263"
+              },
+              {
+                "confidence": 0.9137,
+                "adjustedStart": "0:00:18.341",
+                "adjustedEnd": "0:00:23.731",
+                "start": "0:00:18.341",
+                "end": "0:00:23.731"
+              },
+              {
+                "confidence": 0.9082,
+                "adjustedStart": "0:00:24.809",
+                "adjustedEnd": "0:00:34.51",
+                "start": "0:00:24.809",
+                "end": "0:00:34.51"
+              },
+              {
+                "confidence": 0.9182,
+                "adjustedStart": "0:00:37.744",
+                "adjustedEnd": "0:00:39.9",
+                "start": "0:00:37.744",
+                "end": "0:00:39.9"
+              },
+              {
+                "confidence": 0.9222,
+                "adjustedStart": "0:00:45.29",
+                "adjustedEnd": "0:00:49.602",
+                "start": "0:00:45.29",
+                "end": "0:00:49.602"
+              },
+              {
+                "confidence": 0.9241,
+                "adjustedStart": "0:00:51.758",
+                "adjustedEnd": "0:00:59.304",
+                "start": "0:00:51.758",
+                "end": "0:00:59.304"
+              },
+              {
+                "confidence": 0.9065,
+                "adjustedStart": "0:01:01.459",
+                "adjustedEnd": "0:01:02.537",
+                "start": "0:01:01.459",
+                "end": "0:01:02.537"
+              },
+              {
+                "confidence": 0.9009,
+                "adjustedStart": "0:01:04.693",
+                "adjustedEnd": "0:01:05.771",
+                "start": "0:01:04.693",
+                "end": "0:01:05.771"
+              },
+              {
+                "confidence": 0.9158,
+                "adjustedStart": "0:01:06.849",
+                "adjustedEnd": "0:01:10.083",
+                "start": "0:01:06.849",
+                "end": "0:01:10.083"
+              },
+              {
+                "confidence": 0.9159,
+                "adjustedStart": "0:01:12.239",
+                "adjustedEnd": "0:01:14.395",
+                "start": "0:01:12.239",
+                "end": "0:01:14.395"
+              },
+              {
+                "confidence": 0.9086,
+                "adjustedStart": "0:01:15.473",
+                "adjustedEnd": "0:01:18.707",
+                "start": "0:01:15.473",
+                "end": "0:01:18.707"
+              },
+              {
+                "confidence": 0.902,
+                "adjustedStart": "0:01:24.097",
+                "adjustedEnd": "0:01:25.175",
+                "start": "0:01:24.097",
+                "end": "0:01:25.175"
+              },
+              {
+                "confidence": 0.9011,
+                "adjustedStart": "0:01:27.331",
+                "adjustedEnd": "0:01:28.409",
+                "start": "0:01:27.331",
+                "end": "0:01:28.409"
+              },
+              {
+                "confidence": 0.9263,
+                "adjustedStart": "0:01:33.798",
+                "adjustedEnd": "0:01:34.876",
+                "start": "0:01:33.798",
+                "end": "0:01:34.876"
+              },
+              {
+                "confidence": 0.9236,
+                "adjustedStart": "0:01:37.032",
+                "adjustedEnd": "0:01:40.266",
+                "start": "0:01:37.032",
+                "end": "0:01:40.266"
+              },
+              {
+                "confidence": 0.931,
+                "adjustedStart": "0:01:48.89",
+                "adjustedEnd": "0:01:49.968",
+                "start": "0:01:48.89",
+                "end": "0:01:49.968"
+              },
+              {
+                "confidence": 0.9009,
+                "adjustedStart": "0:01:54.28",
+                "adjustedEnd": "0:01:55.358",
+                "start": "0:01:54.28",
+                "end": "0:01:55.358"
+              },
+              {
+                "confidence": 0.907,
+                "adjustedStart": "0:02:03.982",
+                "adjustedEnd": "0:02:05.06",
+                "start": "0:02:03.982",
+                "end": "0:02:05.06"
+              },
+              {
+                "confidence": 0.9288,
+                "adjustedStart": "0:02:09.371",
+                "adjustedEnd": "0:02:10.449",
+                "start": "0:02:09.371",
+                "end": "0:02:10.449"
+              },
+              {
+                "confidence": 0.9231,
+                "adjustedStart": "0:02:12.605",
+                "adjustedEnd": "0:02:15.839",
+                "start": "0:02:12.605",
+                "end": "0:02:15.839"
+              },
+              {
+                "confidence": 0.9111,
+                "adjustedStart": "0:02:16.917",
+                "adjustedEnd": "0:02:17.995",
+                "start": "0:02:16.917",
+                "end": "0:02:17.995"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "sitting",
+            "referenceId": "action/sitting",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8679,
+                "adjustedStart": "0:00:06.483",
+                "adjustedEnd": "0:00:07.561",
+                "start": "0:00:06.483",
+                "end": "0:00:07.561"
+              },
+              {
+                "confidence": 0.8527,
+                "adjustedStart": "0:00:09.717",
+                "adjustedEnd": "0:00:19.419",
+                "start": "0:00:09.717",
+                "end": "0:00:19.419"
+              },
+              {
+                "confidence": 0.8596,
+                "adjustedStart": "0:00:20.497",
+                "adjustedEnd": "0:00:46.368",
+                "start": "0:00:20.497",
+                "end": "0:00:46.368"
+              },
+              {
+                "confidence": 0.8458,
+                "adjustedStart": "0:01:18.707",
+                "adjustedEnd": "0:01:20.863",
+                "start": "0:01:18.707",
+                "end": "0:01:20.863"
+              },
+              {
+                "confidence": 0.8299,
+                "adjustedStart": "0:01:21.941",
+                "adjustedEnd": "0:01:23.019",
+                "start": "0:01:21.941",
+                "end": "0:01:23.019"
+              },
+              {
+                "confidence": 0.8303,
+                "adjustedStart": "0:01:25.175",
+                "adjustedEnd": "0:01:28.409",
+                "start": "0:01:25.175",
+                "end": "0:01:28.409"
+              },
+              {
+                "confidence": 0.8225,
+                "adjustedStart": "0:01:30.565",
+                "adjustedEnd": "0:01:31.643",
+                "start": "0:01:30.565",
+                "end": "0:01:31.643"
+              },
+              {
+                "confidence": 0.8372,
+                "adjustedStart": "0:01:40.266",
+                "adjustedEnd": "0:01:46.734",
+                "start": "0:01:40.266",
+                "end": "0:01:46.734"
+              },
+              {
+                "confidence": 0.8815,
+                "adjustedStart": "0:01:47.812",
+                "adjustedEnd": "0:02:05.06",
+                "start": "0:01:47.812",
+                "end": "0:02:05.06"
+              },
+              {
+                "confidence": 0.8617,
+                "adjustedStart": "0:02:09.371",
+                "adjustedEnd": "0:02:10.449",
+                "start": "0:02:09.371",
+                "end": "0:02:10.449"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "name": "forehead",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9153,
+                "adjustedStart": "0:00:07.561",
+                "adjustedEnd": "0:00:09.717",
+                "start": "0:00:07.561",
+                "end": "0:00:09.717"
+              },
+              {
+                "confidence": 0.9128,
+                "adjustedStart": "0:00:11.873",
+                "adjustedEnd": "0:00:12.951",
+                "start": "0:00:11.873",
+                "end": "0:00:12.951"
+              },
+              {
+                "confidence": 0.9134,
+                "adjustedStart": "0:00:19.419",
+                "adjustedEnd": "0:00:23.731",
+                "start": "0:00:19.419",
+                "end": "0:00:23.731"
+              },
+              {
+                "confidence": 0.9058,
+                "adjustedStart": "0:00:24.809",
+                "adjustedEnd": "0:00:26.965",
+                "start": "0:00:24.809",
+                "end": "0:00:26.965"
+              },
+              {
+                "confidence": 0.9159,
+                "adjustedStart": "0:00:28.042",
+                "adjustedEnd": "0:00:34.51",
+                "start": "0:00:28.042",
+                "end": "0:00:34.51"
+              },
+              {
+                "confidence": 0.9217,
+                "adjustedStart": "0:00:37.744",
+                "adjustedEnd": "0:00:39.9",
+                "start": "0:00:37.744",
+                "end": "0:00:39.9"
+              },
+              {
+                "confidence": 0.9223,
+                "adjustedStart": "0:00:45.29",
+                "adjustedEnd": "0:01:00.382",
+                "start": "0:00:45.29",
+                "end": "0:01:00.382"
+              },
+              {
+                "confidence": 0.9098,
+                "adjustedStart": "0:01:01.459",
+                "adjustedEnd": "0:01:05.771",
+                "start": "0:01:01.459",
+                "end": "0:01:05.771"
+              },
+              {
+                "confidence": 0.924,
+                "adjustedStart": "0:01:06.849",
+                "adjustedEnd": "0:01:10.083",
+                "start": "0:01:06.849",
+                "end": "0:01:10.083"
+              },
+              {
+                "confidence": 0.9167,
+                "adjustedStart": "0:01:12.239",
+                "adjustedEnd": "0:01:18.707",
+                "start": "0:01:12.239",
+                "end": "0:01:18.707"
+              },
+              {
+                "confidence": 0.9117,
+                "adjustedStart": "0:01:24.097",
+                "adjustedEnd": "0:01:25.175",
+                "start": "0:01:24.097",
+                "end": "0:01:25.175"
+              },
+              {
+                "confidence": 0.9114,
+                "adjustedStart": "0:01:27.331",
+                "adjustedEnd": "0:01:28.409",
+                "start": "0:01:27.331",
+                "end": "0:01:28.409"
+              },
+              {
+                "confidence": 0.9422,
+                "adjustedStart": "0:01:33.798",
+                "adjustedEnd": "0:01:34.876",
+                "start": "0:01:33.798",
+                "end": "0:01:34.876"
+              },
+              {
+                "confidence": 0.9246,
+                "adjustedStart": "0:01:35.954",
+                "adjustedEnd": "0:01:40.266",
+                "start": "0:01:35.954",
+                "end": "0:01:40.266"
+              },
+              {
+                "confidence": 0.9223,
+                "adjustedStart": "0:01:48.89",
+                "adjustedEnd": "0:01:49.968",
+                "start": "0:01:48.89",
+                "end": "0:01:49.968"
+              },
+              {
+                "confidence": 0.9026,
+                "adjustedStart": "0:02:03.982",
+                "adjustedEnd": "0:02:05.06",
+                "start": "0:02:03.982",
+                "end": "0:02:05.06"
+              },
+              {
+                "confidence": 0.9122,
+                "adjustedStart": "0:02:07.215",
+                "adjustedEnd": "0:02:08.293",
+                "start": "0:02:07.215",
+                "end": "0:02:08.293"
+              },
+              {
+                "confidence": 0.9356,
+                "adjustedStart": "0:02:09.371",
+                "adjustedEnd": "0:02:10.449",
+                "start": "0:02:09.371",
+                "end": "0:02:10.449"
+              },
+              {
+                "confidence": 0.9211,
+                "adjustedStart": "0:02:12.605",
+                "adjustedEnd": "0:02:17.995",
+                "start": "0:02:12.605",
+                "end": "0:02:17.995"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "name": "lip",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9128,
+                "adjustedStart": "0:00:07.561",
+                "adjustedEnd": "0:00:09.717",
+                "start": "0:00:07.561",
+                "end": "0:00:09.717"
+              },
+              {
+                "confidence": 0.9013,
+                "adjustedStart": "0:00:11.873",
+                "adjustedEnd": "0:00:12.951",
+                "start": "0:00:11.873",
+                "end": "0:00:12.951"
+              },
+              {
+                "confidence": 0.9021,
+                "adjustedStart": "0:00:29.12",
+                "adjustedEnd": "0:00:30.198",
+                "start": "0:00:29.12",
+                "end": "0:00:30.198"
+              },
+              {
+                "confidence": 0.9022,
+                "adjustedStart": "0:00:32.354",
+                "adjustedEnd": "0:00:33.432",
+                "start": "0:00:32.354",
+                "end": "0:00:33.432"
+              },
+              {
+                "confidence": 0.906,
+                "adjustedStart": "0:00:37.744",
+                "adjustedEnd": "0:00:38.822",
+                "start": "0:00:37.744",
+                "end": "0:00:38.822"
+              },
+              {
+                "confidence": 0.9129,
+                "adjustedStart": "0:00:46.368",
+                "adjustedEnd": "0:00:49.602",
+                "start": "0:00:46.368",
+                "end": "0:00:49.602"
+              },
+              {
+                "confidence": 0.9103,
+                "adjustedStart": "0:00:51.758",
+                "adjustedEnd": "0:00:54.992",
+                "start": "0:00:51.758",
+                "end": "0:00:54.992"
+              },
+              {
+                "confidence": 0.9257,
+                "adjustedStart": "0:00:56.07",
+                "adjustedEnd": "0:00:59.304",
+                "start": "0:00:56.07",
+                "end": "0:00:59.304"
+              },
+              {
+                "confidence": 0.9062,
+                "adjustedStart": "0:01:01.459",
+                "adjustedEnd": "0:01:05.771",
+                "start": "0:01:01.459",
+                "end": "0:01:05.771"
+              },
+              {
+                "confidence": 0.9046,
+                "adjustedStart": "0:01:06.849",
+                "adjustedEnd": "0:01:10.083",
+                "start": "0:01:06.849",
+                "end": "0:01:10.083"
+              },
+              {
+                "confidence": 0.9058,
+                "adjustedStart": "0:01:12.239",
+                "adjustedEnd": "0:01:14.395",
+                "start": "0:01:12.239",
+                "end": "0:01:14.395"
+              },
+              {
+                "confidence": 0.9088,
+                "adjustedStart": "0:01:37.032",
+                "adjustedEnd": "0:01:40.266",
+                "start": "0:01:37.032",
+                "end": "0:01:40.266"
+              },
+              {
+                "confidence": 0.9128,
+                "adjustedStart": "0:01:48.89",
+                "adjustedEnd": "0:01:49.968",
+                "start": "0:01:48.89",
+                "end": "0:01:49.968"
+              },
+              {
+                "confidence": 0.9031,
+                "adjustedStart": "0:02:09.371",
+                "adjustedEnd": "0:02:10.449",
+                "start": "0:02:09.371",
+                "end": "0:02:10.449"
+              },
+              {
+                "confidence": 0.9113,
+                "adjustedStart": "0:02:12.605",
+                "adjustedEnd": "0:02:17.995",
+                "start": "0:02:12.605",
+                "end": "0:02:17.995"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "name": "jaw",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9126,
+                "adjustedStart": "0:00:08.639",
+                "adjustedEnd": "0:00:09.717",
+                "start": "0:00:08.639",
+                "end": "0:00:09.717"
+              },
+              {
+                "confidence": 0.9018,
+                "adjustedStart": "0:00:19.419",
+                "adjustedEnd": "0:00:20.497",
+                "start": "0:00:19.419",
+                "end": "0:00:20.497"
+              },
+              {
+                "confidence": 0.9067,
+                "adjustedStart": "0:00:21.575",
+                "adjustedEnd": "0:00:22.653",
+                "start": "0:00:21.575",
+                "end": "0:00:22.653"
+              },
+              {
+                "confidence": 0.906,
+                "adjustedStart": "0:00:28.042",
+                "adjustedEnd": "0:00:30.198",
+                "start": "0:00:28.042",
+                "end": "0:00:30.198"
+              },
+              {
+                "confidence": 0.9011,
+                "adjustedStart": "0:00:32.354",
+                "adjustedEnd": "0:00:33.432",
+                "start": "0:00:32.354",
+                "end": "0:00:33.432"
+              },
+              {
+                "confidence": 0.9075,
+                "adjustedStart": "0:00:37.744",
+                "adjustedEnd": "0:00:39.9",
+                "start": "0:00:37.744",
+                "end": "0:00:39.9"
+              },
+              {
+                "confidence": 0.9196,
+                "adjustedStart": "0:00:46.368",
+                "adjustedEnd": "0:00:49.602",
+                "start": "0:00:46.368",
+                "end": "0:00:49.602"
+              },
+              {
+                "confidence": 0.917,
+                "adjustedStart": "0:00:51.758",
+                "adjustedEnd": "0:01:00.382",
+                "start": "0:00:51.758",
+                "end": "0:01:00.382"
+              },
+              {
+                "confidence": 0.9069,
+                "adjustedStart": "0:01:01.459",
+                "adjustedEnd": "0:01:05.771",
+                "start": "0:01:01.459",
+                "end": "0:01:05.771"
+              },
+              {
+                "confidence": 0.9182,
+                "adjustedStart": "0:01:06.849",
+                "adjustedEnd": "0:01:10.083",
+                "start": "0:01:06.849",
+                "end": "0:01:10.083"
+              },
+              {
+                "confidence": 0.9113,
+                "adjustedStart": "0:01:12.239",
+                "adjustedEnd": "0:01:14.395",
+                "start": "0:01:12.239",
+                "end": "0:01:14.395"
+              },
+              {
+                "confidence": 0.9034,
+                "adjustedStart": "0:01:16.551",
+                "adjustedEnd": "0:01:17.629",
+                "start": "0:01:16.551",
+                "end": "0:01:17.629"
+              },
+              {
+                "confidence": 0.908,
+                "adjustedStart": "0:01:27.331",
+                "adjustedEnd": "0:01:28.409",
+                "start": "0:01:27.331",
+                "end": "0:01:28.409"
+              },
+              {
+                "confidence": 0.9222,
+                "adjustedStart": "0:01:33.798",
+                "adjustedEnd": "0:01:34.876",
+                "start": "0:01:33.798",
+                "end": "0:01:34.876"
+              },
+              {
+                "confidence": 0.9202,
+                "adjustedStart": "0:01:37.032",
+                "adjustedEnd": "0:01:40.266",
+                "start": "0:01:37.032",
+                "end": "0:01:40.266"
+              },
+              {
+                "confidence": 0.9115,
+                "adjustedStart": "0:01:48.89",
+                "adjustedEnd": "0:01:49.968",
+                "start": "0:01:48.89",
+                "end": "0:01:49.968"
+              },
+              {
+                "confidence": 0.9145,
+                "adjustedStart": "0:02:09.371",
+                "adjustedEnd": "0:02:10.449",
+                "start": "0:02:09.371",
+                "end": "0:02:10.449"
+              },
+              {
+                "confidence": 0.9012,
+                "adjustedStart": "0:02:12.605",
+                "adjustedEnd": "0:02:13.683",
+                "start": "0:02:12.605",
+                "end": "0:02:13.683"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "name": "woman",
+            "referenceId": "person/woman",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8888,
+                "adjustedStart": "0:00:10.795",
+                "adjustedEnd": "0:00:15.107",
+                "start": "0:00:10.795",
+                "end": "0:00:15.107"
+              },
+              {
+                "confidence": 0.883,
+                "adjustedStart": "0:00:16.185",
+                "adjustedEnd": "0:00:17.263",
+                "start": "0:00:16.185",
+                "end": "0:00:17.263"
+              },
+              {
+                "confidence": 0.8891,
+                "adjustedStart": "0:00:18.341",
+                "adjustedEnd": "0:00:21.575",
+                "start": "0:00:18.341",
+                "end": "0:00:21.575"
+              },
+              {
+                "confidence": 0.8689,
+                "adjustedStart": "0:00:43.134",
+                "adjustedEnd": "0:00:46.368",
+                "start": "0:00:43.134",
+                "end": "0:00:46.368"
+              },
+              {
+                "confidence": 0.8847,
+                "adjustedStart": "0:01:18.707",
+                "adjustedEnd": "0:01:28.409",
+                "start": "0:01:18.707",
+                "end": "0:01:28.409"
+              },
+              {
+                "confidence": 0.8718,
+                "adjustedStart": "0:01:34.876",
+                "adjustedEnd": "0:01:38.11",
+                "start": "0:01:34.876",
+                "end": "0:01:38.11"
+              },
+              {
+                "confidence": 0.8663,
+                "adjustedStart": "0:01:46.734",
+                "adjustedEnd": "0:01:47.812",
+                "start": "0:01:46.734",
+                "end": "0:01:47.812"
+              },
+              {
+                "confidence": 0.9029,
+                "adjustedStart": "0:01:48.89",
+                "adjustedEnd": "0:01:49.968",
+                "start": "0:01:48.89",
+                "end": "0:01:49.968"
+              },
+              {
+                "confidence": 0.8811,
+                "adjustedStart": "0:01:56.436",
+                "adjustedEnd": "0:01:57.514",
+                "start": "0:01:56.436",
+                "end": "0:01:57.514"
+              },
+              {
+                "confidence": 0.8813,
+                "adjustedStart": "0:02:08.293",
+                "adjustedEnd": "0:02:09.371",
+                "start": "0:02:08.293",
+                "end": "0:02:09.371"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "name": "selfie",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9052,
+                "adjustedStart": "0:00:19.419",
+                "adjustedEnd": "0:00:20.497",
+                "start": "0:00:19.419",
+                "end": "0:00:20.497"
+              },
+              {
+                "confidence": 0.9088,
+                "adjustedStart": "0:00:28.042",
+                "adjustedEnd": "0:00:29.12",
+                "start": "0:00:28.042",
+                "end": "0:00:29.12"
+              },
+              {
+                "confidence": 0.9113,
+                "adjustedStart": "0:00:46.368",
+                "adjustedEnd": "0:00:48.524",
+                "start": "0:00:46.368",
+                "end": "0:00:48.524"
+              },
+              {
+                "confidence": 0.9063,
+                "adjustedStart": "0:00:53.914",
+                "adjustedEnd": "0:00:54.992",
+                "start": "0:00:53.914",
+                "end": "0:00:54.992"
+              },
+              {
+                "confidence": 0.9182,
+                "adjustedStart": "0:00:56.07",
+                "adjustedEnd": "0:00:59.304",
+                "start": "0:00:56.07",
+                "end": "0:00:59.304"
+              },
+              {
+                "confidence": 0.9201,
+                "adjustedStart": "0:01:01.459",
+                "adjustedEnd": "0:01:02.537",
+                "start": "0:01:01.459",
+                "end": "0:01:02.537"
+              },
+              {
+                "confidence": 0.9019,
+                "adjustedStart": "0:01:03.615",
+                "adjustedEnd": "0:01:04.693",
+                "start": "0:01:03.615",
+                "end": "0:01:04.693"
+              },
+              {
+                "confidence": 0.9209,
+                "adjustedStart": "0:01:06.849",
+                "adjustedEnd": "0:01:10.083",
+                "start": "0:01:06.849",
+                "end": "0:01:10.083"
+              },
+              {
+                "confidence": 0.9338,
+                "adjustedStart": "0:01:12.239",
+                "adjustedEnd": "0:01:13.317",
+                "start": "0:01:12.239",
+                "end": "0:01:13.317"
+              },
+              {
+                "confidence": 0.9109,
+                "adjustedStart": "0:01:16.551",
+                "adjustedEnd": "0:01:17.629",
+                "start": "0:01:16.551",
+                "end": "0:01:17.629"
+              },
+              {
+                "confidence": 0.9179,
+                "adjustedStart": "0:01:24.097",
+                "adjustedEnd": "0:01:28.409",
+                "start": "0:01:24.097",
+                "end": "0:01:28.409"
+              },
+              {
+                "confidence": 0.9092,
+                "adjustedStart": "0:01:31.643",
+                "adjustedEnd": "0:01:32.721",
+                "start": "0:01:31.643",
+                "end": "0:01:32.721"
+              },
+              {
+                "confidence": 0.9023,
+                "adjustedStart": "0:01:39.188",
+                "adjustedEnd": "0:01:40.266",
+                "start": "0:01:39.188",
+                "end": "0:01:40.266"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "name": "smile",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9279,
+                "adjustedStart": "0:01:16.551",
+                "adjustedEnd": "0:01:17.629",
+                "start": "0:01:16.551",
+                "end": "0:01:17.629"
+              },
+              {
+                "confidence": 0.9436,
+                "adjustedStart": "0:02:06.137",
+                "adjustedEnd": "0:02:07.215",
+                "start": "0:02:06.137",
+                "end": "0:02:07.215"
+              },
+              {
+                "confidence": 0.9384,
+                "adjustedStart": "0:02:12.605",
+                "adjustedEnd": "0:02:14.761",
+                "start": "0:02:12.605",
+                "end": "0:02:14.761"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "name": "man",
+            "referenceId": "person/man",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8948,
+                "adjustedStart": "0:01:33.798",
+                "adjustedEnd": "0:01:34.876",
+                "start": "0:01:33.798",
+                "end": "0:01:34.876"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "name": "kiss",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9425,
+                "adjustedStart": "0:01:34.876",
+                "adjustedEnd": "0:01:35.954",
+                "start": "0:01:34.876",
+                "end": "0:01:35.954"
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "name": "watch",
+            "referenceId": "device/watch",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.9584,
+                "adjustedStart": "0:01:46.734",
+                "adjustedEnd": "0:01:47.812",
+                "start": "0:01:46.734",
+                "end": "0:01:47.812"
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "name": "remote",
+            "referenceId": "instrumentality/device/remote control/remote",
+            "language": "en-US",
+            "instances": [
+              {
+                "confidence": 0.8969,
+                "adjustedStart": "0:01:46.734",
+                "adjustedEnd": "0:01:47.812",
+                "start": "0:01:46.734",
+                "end": "0:01:47.812"
+              },
+              {
+                "confidence": 0.891,
+                "adjustedStart": "0:02:08.293",
+                "adjustedEnd": "0:02:09.371",
+                "start": "0:02:08.293",
+                "end": "0:02:09.371"
+              }
+            ]
+          }
+        ],
+        "scenes": [
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:09.987",
+                "start": "0:00:00",
+                "end": "0:00:09.987"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:00:09.987",
+                "adjustedEnd": "0:01:40.603",
+                "start": "0:00:09.987",
+                "end": "0:01:40.603"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:01:40.603",
+                "adjustedEnd": "0:02:20.117",
+                "start": "0:01:40.603",
+                "end": "0:02:20.117"
+              }
+            ]
+          }
+        ],
+        "shots": [
+          {
+            "id": 1,
+            "tags": [ "CloseUp", "CenterFace", "Indoor" ],
+            "keyFrames": [
+              {
+                "id": 1,
+                "instances": [
+                  {
+                    "thumbnailId": "90b3c325-7e53-437f-9f1f-2122a40ee747",
+                    "adjustedStart": "0:00:00.217",
+                    "adjustedEnd": "0:00:00.251",
+                    "start": "0:00:00.217",
+                    "end": "0:00:00.251"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "instances": [
+                  {
+                    "thumbnailId": "8bfe29e1-4fee-4e73-ad2a-4bac6a8d4e7e",
+                    "adjustedStart": "0:00:00.588",
+                    "adjustedEnd": "0:00:00.622",
+                    "start": "0:00:00.588",
+                    "end": "0:00:00.622"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:09.987",
+                "start": "0:00:00",
+                "end": "0:00:09.987"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "tags": [ "CloseUp", "RightFace", "Indoor", "CenterFace" ],
+            "keyFrames": [
+              {
+                "id": 3,
+                "instances": [
+                  {
+                    "thumbnailId": "552e2cd3-68de-4e5d-a51c-89fa15f93b55",
+                    "adjustedStart": "0:00:09.987",
+                    "adjustedEnd": "0:00:10.021",
+                    "start": "0:00:09.987",
+                    "end": "0:00:10.021"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "instances": [
+                  {
+                    "thumbnailId": "7da43a6d-5c3a-48ce-9347-eee7468b0548",
+                    "adjustedStart": "0:00:36.599",
+                    "adjustedEnd": "0:00:36.633",
+                    "start": "0:00:36.599",
+                    "end": "0:00:36.633"
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "instances": [
+                  {
+                    "thumbnailId": "03e569b9-bb17-4ef4-a5c7-4e5374518787",
+                    "adjustedStart": "0:00:43.201",
+                    "adjustedEnd": "0:00:43.235",
+                    "start": "0:00:43.201",
+                    "end": "0:00:43.235"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:00:09.987",
+                "adjustedEnd": "0:01:10.353",
+                "start": "0:00:09.987",
+                "end": "0:01:10.353"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "tags": [ "CloseUp", "CenterFace", "Indoor", "RightFace" ],
+            "keyFrames": [
+              {
+                "id": 6,
+                "instances": [
+                  {
+                    "thumbnailId": "255a0da0-49ed-4b9d-8586-bc76648abf37",
+                    "adjustedStart": "0:01:10.353",
+                    "adjustedEnd": "0:01:10.387",
+                    "start": "0:01:10.353",
+                    "end": "0:01:10.387"
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "instances": [
+                  {
+                    "thumbnailId": "5acf83bf-aeba-4f73-a749-a954bde87584",
+                    "adjustedStart": "0:01:19.111",
+                    "adjustedEnd": "0:01:19.145",
+                    "start": "0:01:19.111",
+                    "end": "0:01:19.145"
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "instances": [
+                  {
+                    "thumbnailId": "0bb3886c-3417-4b4d-8f33-8b425f341dde",
+                    "adjustedStart": "0:01:33.63",
+                    "adjustedEnd": "0:01:33.664",
+                    "start": "0:01:33.63",
+                    "end": "0:01:33.664"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:10.353",
+                "adjustedEnd": "0:01:34.876",
+                "start": "0:01:10.353",
+                "end": "0:01:34.876"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "tags": [ "CloseUp", "CenterFace", "Indoor" ],
+            "keyFrames": [
+              {
+                "id": 9,
+                "instances": [
+                  {
+                    "thumbnailId": "ca554dec-1139-4636-8a73-be4868cc1d2b",
+                    "adjustedStart": "0:01:34.876",
+                    "adjustedEnd": "0:01:34.91",
+                    "start": "0:01:34.876",
+                    "end": "0:01:34.91"
+                  }
+                ]
+              },
+              {
+                "id": 10,
+                "instances": [
+                  {
+                    "thumbnailId": "60d1df18-23cf-418f-8a62-f80d356bcd55",
+                    "adjustedStart": "0:01:36.594",
+                    "adjustedEnd": "0:01:36.628",
+                    "start": "0:01:36.594",
+                    "end": "0:01:36.628"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:34.876",
+                "adjustedEnd": "0:01:40.603",
+                "start": "0:01:34.876",
+                "end": "0:01:40.603"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "tags": [ "CloseUp", "CenterFace", "Indoor" ],
+            "keyFrames": [
+              {
+                "id": 11,
+                "instances": [
+                  {
+                    "thumbnailId": "b4891d1b-968e-41dd-b4b7-34fa6282b627",
+                    "adjustedStart": "0:01:40.603",
+                    "adjustedEnd": "0:01:40.637",
+                    "start": "0:01:40.603",
+                    "end": "0:01:40.637"
+                  }
+                ]
+              },
+              {
+                "id": 12,
+                "instances": [
+                  {
+                    "thumbnailId": "2cf77b63-1e94-48a0-8559-0ad6da5f0cc0",
+                    "adjustedStart": "0:01:50.574",
+                    "adjustedEnd": "0:01:50.608",
+                    "start": "0:01:50.574",
+                    "end": "0:01:50.608"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:01:40.603",
+                "adjustedEnd": "0:02:06.205",
+                "start": "0:01:40.603",
+                "end": "0:02:06.205"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "tags": [ "CloseUp", "CenterFace", "Indoor", "ExtremeCloseUp", "RightFace" ],
+            "keyFrames": [
+              {
+                "id": 13,
+                "instances": [
+                  {
+                    "thumbnailId": "7e8b8193-8c3a-42f7-887c-70d5ff65f2ff",
+                    "adjustedStart": "0:02:06.205",
+                    "adjustedEnd": "0:02:06.239",
+                    "start": "0:02:06.205",
+                    "end": "0:02:06.239"
+                  }
+                ]
+              },
+              {
+                "id": 14,
+                "instances": [
+                  {
+                    "thumbnailId": "f709c66d-6c56-4060-be16-438a8df1b608",
+                    "adjustedStart": "0:02:15.806",
+                    "adjustedEnd": "0:02:15.84",
+                    "start": "0:02:15.806",
+                    "end": "0:02:15.84"
+                  }
+                ]
+              },
+              {
+                "id": 15,
+                "instances": [
+                  {
+                    "thumbnailId": "a7edc83b-fb3b-4306-8ac4-dd30f33b365f",
+                    "adjustedStart": "0:02:17.961",
+                    "adjustedEnd": "0:02:17.995",
+                    "start": "0:02:17.961",
+                    "end": "0:02:17.995"
+                  }
+                ]
+              }
+            ],
+            "instances": [
+              {
+                "adjustedStart": "0:02:06.205",
+                "adjustedEnd": "0:02:20.117",
+                "start": "0:02:06.205",
+                "end": "0:02:20.117"
+              }
+            ]
+          }
+        ],
+        "brands": [
+          {
+            "id": 1,
+            "referenceType": "Wiki",
+            "name": "Guitar Center",
+            "referenceId": "Guitar_Center",
+            "referenceUrl": "http://en.wikipedia.org/wiki/Guitar_Center",
+            "description": "Guitar Center is the largest chain of musical instrument retailers in the world with 269 locations throughout the United States. Its headquarters is in Westlake Village, California.",
+            "tags": [],
+            "confidence": 0.632,
+            "isCustom": false,
+            "instances": [
+              {
+                "brandType": "Transcript",
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:03.37",
+                "adjustedEnd": "0:00:08.835",
+                "start": "0:00:03.37",
+                "end": "0:00:08.835"
+              },
+              {
+                "brandType": "Transcript",
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:31.23",
+                "adjustedEnd": "0:00:33.98",
+                "start": "0:00:31.23",
+                "end": "0:00:33.98"
+              },
+              {
+                "brandType": "Transcript",
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:47.54",
+                "adjustedEnd": "0:00:51.56",
+                "start": "0:00:47.54",
+                "end": "0:00:51.56"
+              },
+              {
+                "brandType": "Transcript",
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:38.16",
+                "adjustedEnd": "0:01:40.52",
+                "start": "0:01:38.16",
+                "end": "0:01:40.52"
+              },
+              {
+                "brandType": "Transcript",
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:52.84",
+                "adjustedEnd": "0:01:56.81",
+                "start": "0:01:52.84",
+                "end": "0:01:56.81"
+              }
+            ]
+          }
+        ],
+        "namedLocations": [
+          {
+            "id": 1,
+            "name": "Guitar Center",
+            "referenceId": "Guitar_Center",
+            "referenceUrl": "https://en.wikipedia.org/wiki/Guitar_Center",
+            "description": "At Guitar Center Nashville, you'll find a huge selection of amps, drums, keyboards, recording gear, DJ equipment, lighting and more from top brands like Fender, Gibson and others.",
+            "tags": [],
+            "confidence": 0.632,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:03.37",
+                "adjustedEnd": "0:00:08.835",
+                "start": "0:00:03.37",
+                "end": "0:00:08.835"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:31.23",
+                "adjustedEnd": "0:00:33.98",
+                "start": "0:00:31.23",
+                "end": "0:00:33.98"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:47.54",
+                "adjustedEnd": "0:00:51.56",
+                "start": "0:00:47.54",
+                "end": "0:00:51.56"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:38.16",
+                "adjustedEnd": "0:01:40.52",
+                "start": "0:01:38.16",
+                "end": "0:01:40.52"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:52.84",
+                "adjustedEnd": "0:01:56.81",
+                "start": "0:01:52.84",
+                "end": "0:01:56.81"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Qatar",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.98,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:47.54",
+                "adjustedEnd": "0:00:51.56",
+                "start": "0:00:47.54",
+                "end": "0:00:51.56"
+              }
+            ]
+          }
+        ],
+        "namedPeople": [
+          {
+            "id": 1,
+            "name": "Joseph",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.98,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:03.37",
+                "adjustedEnd": "0:00:11.29",
+                "start": "0:00:03.37",
+                "end": "0:00:11.29"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:31.23",
+                "adjustedEnd": "0:00:36.33",
+                "start": "0:00:31.23",
+                "end": "0:00:36.33"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:44.47",
+                "adjustedEnd": "0:00:51.56",
+                "start": "0:00:44.47",
+                "end": "0:00:51.56"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:00.68",
+                "adjustedEnd": "0:01:05.403",
+                "start": "0:01:00.68",
+                "end": "0:01:05.403"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:38.16",
+                "adjustedEnd": "0:01:40.52",
+                "start": "0:01:38.16",
+                "end": "0:01:40.52"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:01:44.69",
+                "start": "0:01:42.73",
+                "end": "0:01:44.69"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:01:52.84",
+                "adjustedEnd": "0:01:56.81",
+                "start": "0:01:52.84",
+                "end": "0:01:56.81"
+              },
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:02:12.63",
+                "adjustedEnd": "0:02:18.68",
+                "start": "0:02:12.63",
+                "end": "0:02:18.68"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Drew",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.73,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:00:51.56",
+                "adjustedEnd": "0:00:52.65",
+                "start": "0:00:51.56",
+                "end": "0:00:52.65"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Anton",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.97,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:02:12.63",
+                "adjustedEnd": "0:02:18.68",
+                "start": "0:02:12.63",
+                "end": "0:02:18.68"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Rita",
+            "referenceId": null,
+            "referenceUrl": null,
+            "description": null,
+            "tags": [],
+            "confidence": 0.99,
+            "isCustom": false,
+            "instances": [
+              {
+                "instanceSource": "Transcript",
+                "adjustedStart": "0:02:18.68",
+                "adjustedEnd": "0:02:20.373",
+                "start": "0:02:18.68",
+                "end": "0:02:20.373"
+              }
+            ]
+          }
+        ],
+        "sentiments": [
+          {
+            "id": 1,
+            "averageScore": 0.5,
+            "sentimentType": "Neutral",
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:11.29",
+                "start": "0:00:00",
+                "end": "0:00:11.29"
+              },
+              {
+                "adjustedStart": "0:00:13.76",
+                "adjustedEnd": "0:00:36.33",
+                "start": "0:00:13.76",
+                "end": "0:00:36.33"
+              },
+              {
+                "adjustedStart": "0:00:38.68",
+                "adjustedEnd": "0:01:16.49",
+                "start": "0:00:38.68",
+                "end": "0:01:16.49"
+              },
+              {
+                "adjustedStart": "0:01:19.89",
+                "adjustedEnd": "0:01:29.91",
+                "start": "0:01:19.89",
+                "end": "0:01:29.91"
+              },
+              {
+                "adjustedStart": "0:01:35.8",
+                "adjustedEnd": "0:01:44.69",
+                "start": "0:01:35.8",
+                "end": "0:01:44.69"
+              },
+              {
+                "adjustedStart": "0:01:46.64",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:01:46.64",
+                "end": "0:02:11.81"
+              },
+              {
+                "adjustedStart": "0:02:17.437",
+                "adjustedEnd": "0:02:20.373",
+                "start": "0:02:17.437",
+                "end": "0:02:20.373"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "averageScore": 0.9608,
+            "sentimentType": "Positive",
+            "instances": [
+              {
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:00:13.76",
+                "start": "0:00:11.29",
+                "end": "0:00:13.76"
+              },
+              {
+                "adjustedStart": "0:00:36.33",
+                "adjustedEnd": "0:00:38.68",
+                "start": "0:00:36.33",
+                "end": "0:00:38.68"
+              },
+              {
+                "adjustedStart": "0:01:16.49",
+                "adjustedEnd": "0:01:19.89",
+                "start": "0:01:16.49",
+                "end": "0:01:19.89"
+              },
+              {
+                "adjustedStart": "0:01:29.91",
+                "adjustedEnd": "0:01:35.8",
+                "start": "0:01:29.91",
+                "end": "0:01:35.8"
+              },
+              {
+                "adjustedStart": "0:01:44.69",
+                "adjustedEnd": "0:01:46.64",
+                "start": "0:01:44.69",
+                "end": "0:01:46.64"
+              },
+              {
+                "adjustedStart": "0:02:11.81",
+                "adjustedEnd": "0:02:17.437",
+                "start": "0:02:11.81",
+                "end": "0:02:17.437"
+              }
+            ]
+          }
+        ],
+        "emotions": [
+          {
+            "id": 1,
+            "type": "Joy",
+            "instances": [
+              {
+                "confidence": 0.6935,
+                "adjustedStart": "0:00:11.29",
+                "adjustedEnd": "0:00:13.76",
+                "start": "0:00:11.29",
+                "end": "0:00:13.76"
+              },
+              {
+                "confidence": 0.7342,
+                "adjustedStart": "0:00:36.33",
+                "adjustedEnd": "0:00:38.68",
+                "start": "0:00:36.33",
+                "end": "0:00:38.68"
+              },
+              {
+                "confidence": 0.862,
+                "adjustedStart": "0:01:16.49",
+                "adjustedEnd": "0:01:19.89",
+                "start": "0:01:16.49",
+                "end": "0:01:19.89"
+              },
+              {
+                "confidence": 0.7432,
+                "adjustedStart": "0:01:29.91",
+                "adjustedEnd": "0:01:35.8",
+                "start": "0:01:29.91",
+                "end": "0:01:35.8"
+              },
+              {
+                "confidence": 0.7262,
+                "adjustedStart": "0:01:44.69",
+                "adjustedEnd": "0:01:46.64",
+                "start": "0:01:44.69",
+                "end": "0:01:46.64"
+              },
+              {
+                "confidence": 0.6854,
+                "adjustedStart": "0:02:11.81",
+                "adjustedEnd": "0:02:17.437",
+                "start": "0:02:11.81",
+                "end": "0:02:17.437"
+              }
+            ]
+          }
+        ],
+        "visualContentModeration": [
+          {
+            "id": 1,
+            "adultScore": 0.049,
+            "racyScore": 0.8145,
+            "instances": [
+              {
+                "adjustedStart": "0:01:34.876",
+                "adjustedEnd": "0:01:36.594",
+                "start": "0:01:34.876",
+                "end": "0:01:36.594"
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "id": 0,
+            "instances": [
+              {
+                "adjustedStart": "0:00:00",
+                "adjustedEnd": "0:00:31.23",
+                "start": "0:00:00",
+                "end": "0:00:31.23"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "instances": [
+              {
+                "adjustedStart": "0:00:31.23",
+                "adjustedEnd": "0:01:05.403",
+                "start": "0:00:31.23",
+                "end": "0:01:05.403"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "instances": [
+              {
+                "adjustedStart": "0:01:05.403",
+                "adjustedEnd": "0:01:35.466",
+                "start": "0:01:05.403",
+                "end": "0:01:35.466"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "instances": [
+              {
+                "adjustedStart": "0:01:35.466",
+                "adjustedEnd": "0:02:11.81",
+                "start": "0:01:35.466",
+                "end": "0:02:11.81"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "instances": [
+              {
+                "adjustedStart": "0:02:11.81",
+                "adjustedEnd": "0:02:20.373",
+                "start": "0:02:11.81",
+                "end": "0:02:20.373"
+              }
+            ]
+          }
+        ],
+        "speakers": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.04",
+                "adjustedEnd": "0:00:03.37",
+                "start": "0:00:03.04",
+                "end": "0:00:03.37"
+              },
+              {
+                "adjustedStart": "0:02:04.24",
+                "adjustedEnd": "0:02:12.63",
+                "start": "0:02:04.24",
+                "end": "0:02:12.63"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Speaker #2",
+            "instances": [
+              {
+                "adjustedStart": "0:00:03.37",
+                "adjustedEnd": "0:00:08.835",
+                "start": "0:00:03.37",
+                "end": "0:00:08.835"
+              },
+              {
+                "adjustedStart": "0:00:08.909",
+                "adjustedEnd": "0:00:52.65",
+                "start": "0:00:08.909",
+                "end": "0:00:52.65"
+              },
+              {
+                "adjustedStart": "0:00:58.49",
+                "adjustedEnd": "0:01:05.403",
+                "start": "0:00:58.49",
+                "end": "0:01:05.403"
+              },
+              {
+                "adjustedStart": "0:01:05.499",
+                "adjustedEnd": "0:01:16.49",
+                "start": "0:01:05.499",
+                "end": "0:01:16.49"
+              },
+              {
+                "adjustedStart": "0:01:20.75",
+                "adjustedEnd": "0:01:24.19",
+                "start": "0:01:20.75",
+                "end": "0:01:24.19"
+              },
+              {
+                "adjustedStart": "0:01:31.87",
+                "adjustedEnd": "0:01:35.466",
+                "start": "0:01:31.87",
+                "end": "0:01:35.466"
+              },
+              {
+                "adjustedStart": "0:01:35.521",
+                "adjustedEnd": "0:01:40.52",
+                "start": "0:01:35.521",
+                "end": "0:01:40.52"
+              },
+              {
+                "adjustedStart": "0:01:42.73",
+                "adjustedEnd": "0:02:02.98",
+                "start": "0:01:42.73",
+                "end": "0:02:02.98"
+              },
+              {
+                "adjustedStart": "0:02:12.63",
+                "adjustedEnd": "0:02:20.373",
+                "start": "0:02:12.63",
+                "end": "0:02:20.373"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Speaker #3",
+            "instances": [
+              {
+                "adjustedStart": "0:00:52.65",
+                "adjustedEnd": "0:00:58.49",
+                "start": "0:00:52.65",
+                "end": "0:00:58.49"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Speaker #4",
+            "instances": [
+              {
+                "adjustedStart": "0:01:16.49",
+                "adjustedEnd": "0:01:20.75",
+                "start": "0:01:16.49",
+                "end": "0:01:20.75"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Speaker #5",
+            "instances": [
+              {
+                "adjustedStart": "0:01:24.19",
+                "adjustedEnd": "0:01:31.87",
+                "start": "0:01:24.19",
+                "end": "0:01:31.87"
+              }
+            ]
+          }
+        ],
+        "textualContentModeration": {
+          "id": 0,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "instances": []
+        },
+        "statistics": {
+          "correspondenceCount": 9,
+          "speakerTalkToListenRatio": {
+            "1": 0.065,
+            "2": 0.801,
+            "3": 0.043,
+            "4": 0.031,
+            "5": 0.057
+          },
+          "speakerLongestMonolog": {
+            "1": 8,
+            "2": 49,
+            "3": 5,
+            "4": 4,
+            "5": 7
+          },
+          "speakerNumberOfFragments": {
+            "1": 2,
+            "2": 9,
+            "3": 1,
+            "4": 1,
+            "5": 1
+          },
+          "speakerWordCount": {
+            "1": 14,
+            "2": 235,
+            "3": 16,
+            "4": 7,
+            "5": 18
+          }
+        }
+      },
+      "thumbnailId": "8fa4ea74-882e-4376-a4a8-59daa7a36928",
+      "detectSourceLanguage": false,
+      "languageAutoDetectMode": "None",
+      "sourceLanguage": "en-US",
+      "sourceLanguages": [ "en-US" ],
+      "language": "en-US",
+      "languages": [ "en-US" ],
+      "indexingPreset": "Default",
+      "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+      "personModelId": "00000000-0000-0000-0000-000000000000",
+      "logoGroupId": null,
+      "isAdult": false,
+      "publishedUrl": "https://videoindexerams3f66d139-usw22.streaming.media.azure.net/44a98db0-ab5c-43b5-83d4-775a39a3ab1a/Retelling%203-2-1.ism/manifest(encryption=cbc)",
+      "publishedProxyUrl": null,
+      "viewToken": null
+    }
+  ],
+  "videosRanges": [
+    {
+      "videoId": "bd42f44e47",
+      "range": {
+        "start": "0:00:00",
+        "end": "0:02:20.416"
+      }
+    }
+  ]
+}
